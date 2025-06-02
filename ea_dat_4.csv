@@ -1,0 +1,1292 @@
+soc_id,var_id,code,pref_name_for_society,title,category,description,name,climate_id,climate_code,climate_title
+Aa1,EA202,3500,!Kung,Population size,Population,NA,NA,AnnualMeanTemperature,21.03514971,Mean value of monthly temperature across the year
+Aa2,EA202,1100,Dorobo,Population size,Population,NA,NA,AnnualMeanTemperature,19.01419744,Mean value of monthly temperature across the year
+Aa3,EA202,2500,Nama,Population size,Population,NA,NA,AnnualMeanTemperature,20.43585493,Mean value of monthly temperature across the year
+Aa4,EA202,29000,Bergdama,Population size,Population,NA,NA,AnnualMeanTemperature,22.66307586,Mean value of monthly temperature across the year
+Aa5,EA202,40000,Mbuti,Population size,Population,NA,NA,AnnualMeanTemperature,21.41779959,Mean value of monthly temperature across the year
+Aa6,EA202,23400,Sandawe,Population size,Population,NA,NA,AnnualMeanTemperature,18.1173012,Mean value of monthly temperature across the year
+Aa7,EA202,300,Naron,Population size,Population,NA,NA,AnnualMeanTemperature,21.93601527,Mean value of monthly temperature across the year
+Aa8,EA202,NA,/Xam,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.6037793,Mean value of monthly temperature across the year
+Aa9,EA202,600,Hadza,Population size,Population,NA,NA,AnnualMeanTemperature,19.36364443,Mean value of monthly temperature across the year
+Ab1,EA202,1e+05,Herero,Population size,Population,NA,NA,AnnualMeanTemperature,21.9947192,Mean value of monthly temperature across the year
+Ab10,EA202,260000,Pondo Xhosa,Population size,Population,NA,NA,AnnualMeanTemperature,19.17895521,Mean value of monthly temperature across the year
+Ab11,EA202,NA,Xhosa Ngqika,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.09562177,Mean value of monthly temperature across the year
+Ab12,EA202,250000,Zulu,Population size,Population,NA,NA,AnnualMeanTemperature,16.45028857,Mean value of monthly temperature across the year
+Ab13,EA202,580000,Tswana,Population size,Population,NA,NA,AnnualMeanTemperature,18.42354332,Mean value of monthly temperature across the year
+Ab14,EA202,40000,Lovedu,Population size,Population,NA,NA,AnnualMeanTemperature,17.61973153,Mean value of monthly temperature across the year
+Ab15,EA202,1e+05,Pedi,Population size,Population,NA,NA,AnnualMeanTemperature,14.54028018,Mean value of monthly temperature across the year
+Ab16,EA202,NA,Lenge,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.75917944,Mean value of monthly temperature across the year
+Ab17,EA202,1e+05,Ndau,Population size,Population,NA,NA,AnnualMeanTemperature,23.36566077,Mean value of monthly temperature across the year
+Ab18,EA202,7e+05,Shona,Population size,Population,NA,NA,AnnualMeanTemperature,18.61544463,Mean value of monthly temperature across the year
+Ab19,EA202,60000,Ambo,Population size,Population,NA,NA,AnnualMeanTemperature,21.76799113,Mean value of monthly temperature across the year
+Ab2,EA202,180000,Swazi,Population size,Population,NA,NA,AnnualMeanTemperature,17.88512326,Mean value of monthly temperature across the year
+Ab20,EA202,80000,Ngumbi,Population size,Population,NA,NA,AnnualMeanTemperature,21.44085674,Mean value of monthly temperature across the year
+Ab21a,EA202,10000,Kisama,Population size,Population,NA,NA,AnnualMeanTemperature,25.99188671,Mean value of monthly temperature across the year
+Ab21b,EA202,NA,Bomvana,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.87293026,Mean value of monthly temperature across the year
+Ab22,EA202,NA,Chopi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.73435276,Mean value of monthly temperature across the year
+Ab3,EA202,67200,Lozi,Population size,Population,NA,NA,AnnualMeanTemperature,21.27145619,Mean value of monthly temperature across the year
+Ab4,EA202,NA,Tsonga,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.19768344,Mean value of monthly temperature across the year
+Ab5,EA202,1200000,Mbundu,Population size,Population,NA,NA,AnnualMeanTemperature,17.78917906,Mean value of monthly temperature across the year
+Ab6,EA202,150000,Venda,Population size,Population,NA,NA,AnnualMeanTemperature,19.08799218,Mean value of monthly temperature across the year
+Ab7,EA202,40000,Nyaneka,Population size,Population,NA,NA,AnnualMeanTemperature,23.2363888,Mean value of monthly temperature across the year
+Ab8,EA202,9e+05,Sotho,Population size,Population,NA,NA,AnnualMeanTemperature,10.67785505,Mean value of monthly temperature across the year
+Ab9,EA202,3e+05,Ndebele,Population size,Population,NA,NA,AnnualMeanTemperature,19.91998232,Mean value of monthly temperature across the year
+Ac1,EA202,22000,Ila,Population size,Population,NA,NA,AnnualMeanTemperature,20.83001114,Mean value of monthly temperature across the year
+Ac10,EA202,750000,Chewa,Population size,Population,NA,NA,AnnualMeanTemperature,19.1377746,Mean value of monthly temperature across the year
+Ac11,EA202,90000,Luvale,Population size,Population,NA,NA,AnnualMeanTemperature,20.2280438,Mean value of monthly temperature across the year
+Ac12,EA202,6e+05,Chokwe,Population size,Population,NA,NA,AnnualMeanTemperature,20.4995579,Mean value of monthly temperature across the year
+Ac13,EA202,50000,Tonga,Population size,Population,NA,NA,AnnualMeanTemperature,19.1714263,Mean value of monthly temperature across the year
+Ac14,EA202,NA,Bakongo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.15157376,Mean value of monthly temperature across the year
+Ac15,EA202,NA,Mbala,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.34250698,Mean value of monthly temperature across the year
+Ac16,EA202,NA,Mitsogho,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.86375475,Mean value of monthly temperature across the year
+Ac17,EA202,80000,Suku,Population size,Population,NA,NA,AnnualMeanTemperature,21.4750628,Mean value of monthly temperature across the year
+Ac18,EA202,65000,Sundi,Population size,Population,NA,NA,AnnualMeanTemperature,23.3706818,Mean value of monthly temperature across the year
+Ac19,EA202,NA,Teke,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.95399209,Mean value of monthly temperature across the year
+Ac2,EA202,27000,Pende,Population size,Population,NA,NA,AnnualMeanTemperature,22.38180871,Mean value of monthly temperature across the year
+Ac20,EA202,NA,Yaka,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.53367678,Mean value of monthly temperature across the year
+Ac21,EA202,NA,Bunda,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.74003539,Mean value of monthly temperature across the year
+Ac22,EA202,NA,Dzing,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.95962107,Mean value of monthly temperature across the year
+Ac23,EA202,10000,Lele,Population size,Population,NA,NA,AnnualMeanTemperature,22.69386099,Mean value of monthly temperature across the year
+Ac24,EA202,NA,Sakata,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.38122489,Mean value of monthly temperature across the year
+Ac25,EA202,NA,Songo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.34250698,Mean value of monthly temperature across the year
+Ac26,EA202,NA,Yanzi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.05040736,Mean value of monthly temperature across the year
+Ac27,EA202,NA,Luchazi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.77089977,Mean value of monthly temperature across the year
+Ac28,EA202,40000,Luimbe,Population size,Population,NA,NA,AnnualMeanTemperature,18.32656517,Mean value of monthly temperature across the year
+Ac29,EA202,NA,Luwa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.49476174,Mean value of monthly temperature across the year
+Ac3,EA202,1e+05,Bemba,Population size,Population,NA,NA,AnnualMeanTemperature,17.73388941,Mean value of monthly temperature across the year
+Ac30,EA202,90000,Plateau Tonga,Population size,Population,NA,NA,AnnualMeanTemperature,22.13777711,Mean value of monthly temperature across the year
+Ac31,EA202,NA,Buye,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.30314478,Mean value of monthly temperature across the year
+Ac32,EA202,38000,Kaonde,Population size,Population,NA,NA,AnnualMeanTemperature,18.5679854,Mean value of monthly temperature across the year
+Ac33,EA202,60000,Lala,Population size,Population,NA,NA,AnnualMeanTemperature,22.17693623,Mean value of monthly temperature across the year
+Ac34,EA202,1e+05,Luapula,Population size,Population,NA,NA,AnnualMeanTemperature,19.23466209,Mean value of monthly temperature across the year
+Ac35,EA202,NA,Shila,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.70675128,Mean value of monthly temperature across the year
+Ac36,EA202,115000,Tumbuka,Population size,Population,NA,NA,AnnualMeanTemperature,19.1714263,Mean value of monthly temperature across the year
+Ac37,EA202,20000,Kunda,Population size,Population,NA,NA,AnnualMeanTemperature,22.43519838,Mean value of monthly temperature across the year
+Ac38,EA202,575000,Nyanja,Population size,Population,NA,NA,AnnualMeanTemperature,21.83679231,Mean value of monthly temperature across the year
+Ac39,EA202,NA,Nyasa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.57464033,Mean value of monthly temperature across the year
+Ac4,EA202,73000,Kuba,Population size,Population,NA,NA,AnnualMeanTemperature,22.54260913,Mean value of monthly temperature across the year
+Ac40,EA202,NA,Sena,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.14150164,Mean value of monthly temperature across the year
+Ac41,EA202,NA,Makonde,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.34536594,Mean value of monthly temperature across the year
+Ac42,EA202,8e+05,Makua,Population size,Population,NA,NA,AnnualMeanTemperature,22.43630099,Mean value of monthly temperature across the year
+Ac43,EA202,25000,Mambwe,Population size,Population,NA,NA,AnnualMeanTemperature,24.72892709,Mean value of monthly temperature across the year
+Ac5,EA202,70000,Lamba,Population size,Population,NA,NA,AnnualMeanTemperature,17.72439901,Mean value of monthly temperature across the year
+Ac6,EA202,63000,Ndembu,Population size,Population,NA,NA,AnnualMeanTemperature,18.27702447,Mean value of monthly temperature across the year
+Ac7,EA202,360000,Yao,Population size,Population,NA,NA,AnnualMeanTemperature,19.97813924,Mean value of monthly temperature across the year
+Ac8,EA202,170000,Yombe,Population size,Population,NA,NA,AnnualMeanTemperature,24.517755,Mean value of monthly temperature across the year
+Ac9,EA202,85000,Ngoni,Population size,Population,NA,NA,AnnualMeanTemperature,19.35548731,Mean value of monthly temperature across the year
+Ad1,EA202,2000,Bajuni,Population size,Population,NA,NA,AnnualMeanTemperature,26.50230954,Mean value of monthly temperature across the year
+Ad10,EA202,220000,Shambaa,Population size,Population,NA,NA,AnnualMeanTemperature,19.71290072,Mean value of monthly temperature across the year
+Ad11,EA202,16000,Bena,Population size,Population,NA,NA,AnnualMeanTemperature,18.96882822,Mean value of monthly temperature across the year
+Ad12,EA202,238000,Gusii,Population size,Population,NA,NA,AnnualMeanTemperature,19.01833323,Mean value of monthly temperature across the year
+Ad13,EA202,1e+05,Kiga,Population size,Population,NA,NA,AnnualMeanTemperature,16.5840068,Mean value of monthly temperature across the year
+Ad14,EA202,2e+05,Luguru,Population size,Population,NA,NA,AnnualMeanTemperature,23.71426423,Mean value of monthly temperature across the year
+Ad15,EA202,12250,Iwa,Population size,Population,NA,NA,AnnualMeanTemperature,17.78161791,Mean value of monthly temperature across the year
+Ad16,EA202,62000,Ngonde,Population size,Population,NA,NA,AnnualMeanTemperature,17.86562429,Mean value of monthly temperature across the year
+Ad17,EA202,45000,Safwa,Population size,Population,NA,NA,AnnualMeanTemperature,18.78014775,Mean value of monthly temperature across the year
+Ad18,EA202,NA,Bende,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.75072025,Mean value of monthly temperature across the year
+Ad19,EA202,15000,Fipa,Population size,Population,NA,NA,AnnualMeanTemperature,18.8485176,Mean value of monthly temperature across the year
+Ad2,EA202,110000,Nyoro,Population size,Population,NA,NA,AnnualMeanTemperature,22.58232846,Mean value of monthly temperature across the year
+Ad20,EA202,NA,Nyamwezi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.0289127,Mean value of monthly temperature across the year
+Ad21,EA202,11000,Pimbwe,Population size,Population,NA,NA,AnnualMeanTemperature,19.75072025,Mean value of monthly temperature across the year
+Ad22,EA202,1e+06,Sukuma,Population size,Population,NA,NA,AnnualMeanTemperature,20.38207686,Mean value of monthly temperature across the year
+Ad23,EA202,NA,Sangu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.35477335,Mean value of monthly temperature across the year
+Ad24,EA202,110000,Gogo,Population size,Population,NA,NA,AnnualMeanTemperature,19.45864995,Mean value of monthly temperature across the year
+Ad25,EA202,80000,Rangi,Population size,Population,NA,NA,AnnualMeanTemperature,18.1173012,Mean value of monthly temperature across the year
+Ad26,EA202,145000,Turu,Population size,Population,NA,NA,AnnualMeanTemperature,20.18565869,Mean value of monthly temperature across the year
+Ad27,EA202,40000,Kwere,Population size,Population,NA,NA,AnnualMeanTemperature,24.29898087,Mean value of monthly temperature across the year
+Ad28,EA202,135000,Zigula,Population size,Population,NA,NA,AnnualMeanTemperature,22.35964917,Mean value of monthly temperature across the year
+Ad29,EA202,1e+05,Hadimu,Population size,Population,NA,NA,AnnualMeanTemperature,24.44982029,Mean value of monthly temperature across the year
+Ad3,EA202,237000,Chagga,Population size,Population,NA,NA,AnnualMeanTemperature,19.05085088,Mean value of monthly temperature across the year
+Ad30,EA202,112000,Digo,Population size,Population,NA,NA,AnnualMeanTemperature,22.78186938,Mean value of monthly temperature across the year
+Ad31,EA202,37000,Duruma,Population size,Population,NA,NA,AnnualMeanTemperature,22.78186938,Mean value of monthly temperature across the year
+Ad32,EA202,120000,Giriama,Population size,Population,NA,NA,AnnualMeanTemperature,25.38725483,Mean value of monthly temperature across the year
+Ad33,EA202,20000,Pokomo,Population size,Population,NA,NA,AnnualMeanTemperature,26.0927353,Mean value of monthly temperature across the year
+Ad34,EA202,6e+05,Kamba,Population size,Population,NA,NA,AnnualMeanTemperature,19.36225098,Mean value of monthly temperature across the year
+Ad35,EA202,255000,Meru,Population size,Population,NA,NA,AnnualMeanTemperature,19.39983749,Mean value of monthly temperature across the year
+Ad36,EA202,1e+05,Pare,Population size,Population,NA,NA,AnnualMeanTemperature,19.06855405,Mean value of monthly temperature across the year
+Ad37,EA202,60000,Teita,Population size,Population,NA,NA,AnnualMeanTemperature,22.78186938,Mean value of monthly temperature across the year
+Ad38,EA202,20000,Kara,Population size,Population,NA,NA,AnnualMeanTemperature,19.86225588,Mean value of monthly temperature across the year
+Ad39,EA202,4500,Sonjo,Population size,Population,NA,NA,AnnualMeanTemperature,18.93683164,Mean value of monthly temperature across the year
+Ad4,EA202,1026300,Kikuyu,Population size,Population,NA,NA,AnnualMeanTemperature,17.92150919,Mean value of monthly temperature across the year
+Ad40,EA202,40000,Tiriki,Population size,Population,NA,NA,AnnualMeanTemperature,19.39983749,Mean value of monthly temperature across the year
+Ad41,EA202,50000,Vugusu,Population size,Population,NA,NA,AnnualMeanTemperature,20.56682952,Mean value of monthly temperature across the year
+Ad42,EA202,325000,Haya,Population size,Population,NA,NA,AnnualMeanTemperature,18.62068702,Mean value of monthly temperature across the year
+Ad43,EA202,40000,Kerewe,Population size,Population,NA,NA,AnnualMeanTemperature,20.81277014,Mean value of monthly temperature across the year
+Ad44,EA202,375000,Konjo,Population size,Population,NA,NA,AnnualMeanTemperature,16.96009344,Mean value of monthly temperature across the year
+Ad45,EA202,520000,Nyankole,Population size,Population,NA,NA,AnnualMeanTemperature,18.59548568,Mean value of monthly temperature across the year
+Ad46,EA202,425000,Soga,Population size,Population,NA,NA,AnnualMeanTemperature,22.46618099,Mean value of monthly temperature across the year
+Ad47,EA202,76000,Sumbwa,Population size,Population,NA,NA,AnnualMeanTemperature,21.22908819,Mean value of monthly temperature across the year
+Ad48,EA202,2e+05,Toro,Population size,Population,NA,NA,AnnualMeanTemperature,20.79007683,Mean value of monthly temperature across the year
+Ad49,EA202,55000,Zinza,Population size,Population,NA,NA,AnnualMeanTemperature,17.48945439,Mean value of monthly temperature across the year
+Ad5,EA202,7500,Mbugwe,Population size,Population,NA,NA,AnnualMeanTemperature,18.43543188,Mean value of monthly temperature across the year
+Ad50,EA202,87000,Kaguru,Population size,Population,NA,NA,AnnualMeanTemperature,20.30485763,Mean value of monthly temperature across the year
+Ad51,EA202,53000,Ngulu,Population size,Population,NA,NA,AnnualMeanTemperature,21.11174104,Mean value of monthly temperature across the year
+Ad6,EA202,163000,Nyakyusa,Population size,Population,NA,NA,AnnualMeanTemperature,17.8583016,Mean value of monthly temperature across the year
+Ad7,EA202,6e+05,Ganda,Population size,Population,NA,NA,AnnualMeanTemperature,22.49398223,Mean value of monthly temperature across the year
+Ad8,EA202,85000,Hehe,Population size,Population,NA,NA,AnnualMeanTemperature,18.04507859,Mean value of monthly temperature across the year
+Ad9,EA202,250000,Gisu,Population size,Population,NA,NA,AnnualMeanTemperature,21.76807238,Mean value of monthly temperature across the year
+Ae1,EA202,18000,Amba,Population size,Population,NA,NA,AnnualMeanTemperature,19.30406862,Mean value of monthly temperature across the year
+Ae10,EA202,2133000,Banyaruanda,Population size,Population,NA,NA,AnnualMeanTemperature,16.73643853,Mean value of monthly temperature across the year
+Ae11,EA202,1e+05,Songola,Population size,Population,NA,NA,AnnualMeanTemperature,22.24259201,Mean value of monthly temperature across the year
+Ae12,EA202,40000,Duala,Population size,Population,NA,NA,AnnualMeanTemperature,24.23693973,Mean value of monthly temperature across the year
+Ae13,EA202,NA,Bashi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.57444477,Mean value of monthly temperature across the year
+Ae14,EA202,2e+05,Ha,Population size,Population,NA,NA,AnnualMeanTemperature,20.64102269,Mean value of monthly temperature across the year
+Ae15,EA202,NA,Hunde,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.4164806,Mean value of monthly temperature across the year
+Ae16,EA202,NA,Lulua,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.40759263,Mean value of monthly temperature across the year
+Ae17,EA202,NA,Rega,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.42356247,Mean value of monthly temperature across the year
+Ae18,EA202,NA,Songye,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.69037962,Mean value of monthly temperature across the year
+Ae19,EA202,NA,Garanganze,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.12834385,Mean value of monthly temperature across the year
+Ae2,EA202,38000,Kpe,Population size,Population,NA,NA,AnnualMeanTemperature,24.94847173,Mean value of monthly temperature across the year
+Ae20,EA202,2e+05,Ekonda,Population size,Population,NA,NA,AnnualMeanTemperature,23.17111395,Mean value of monthly temperature across the year
+Ae21,EA202,24000,Kela,Population size,Population,NA,NA,AnnualMeanTemperature,22.31036265,Mean value of monthly temperature across the year
+Ae22,EA202,NA,Kutsu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.58297414,Mean value of monthly temperature across the year
+Ae23,EA202,1e+05,Lalia,Population size,Population,NA,NA,AnnualMeanTemperature,22.6068884,Mean value of monthly temperature across the year
+Ae24,EA202,2e+05,Mongo,Population size,Population,NA,NA,AnnualMeanTemperature,22.80500531,Mean value of monthly temperature across the year
+Ae25,EA202,NA,Tetela,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.59559738,Mean value of monthly temperature across the year
+Ae26,EA202,NA,Topoke,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.71114686,Mean value of monthly temperature across the year
+Ae27,EA202,25000,Lokele,Population size,Population,NA,NA,AnnualMeanTemperature,22.70012575,Mean value of monthly temperature across the year
+Ae28,EA202,125000,Ngala,Population size,Population,NA,NA,AnnualMeanTemperature,22.9398005,Mean value of monthly temperature across the year
+Ae29,EA202,NA,Poto,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.76098738,Mean value of monthly temperature across the year
+Ae3,EA202,850000,Fang,Population size,Population,NA,NA,AnnualMeanTemperature,23.22373785,Mean value of monthly temperature across the year
+Ae30,EA202,NA,Bira,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.94455687,Mean value of monthly temperature across the year
+Ae31,EA202,NA,Budu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.41779959,Mean value of monthly temperature across the year
+Ae32,EA202,21000,Kumu,Population size,Population,NA,NA,AnnualMeanTemperature,21.01405555,Mean value of monthly temperature across the year
+Ae33,EA202,3e+05,Ndaka Babali,Population size,Population,NA,NA,AnnualMeanTemperature,22.1246218,Mean value of monthly temperature across the year
+Ae34,EA202,NA,Plains Bira,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.30406862,Mean value of monthly temperature across the year
+Ae35,EA202,8350,Rumbi,Population size,Population,NA,NA,AnnualMeanTemperature,20.43142837,Mean value of monthly temperature across the year
+Ae36,EA202,NA,Bombesa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.7721712,Mean value of monthly temperature across the year
+Ae37,EA202,NA,Budja,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.54574844,Mean value of monthly temperature across the year
+Ae38,EA202,NA,Ndoko,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.7974778,Mean value of monthly temperature across the year
+Ae39,EA202,NA,Ngombe,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.8294213,Mean value of monthly temperature across the year
+Ae4,EA202,1e+06,Nkundo,Population size,Population,NA,NA,AnnualMeanTemperature,22.83406776,Mean value of monthly temperature across the year
+Ae40,EA202,6000,Dzem,Population size,Population,NA,NA,AnnualMeanTemperature,21.57196417,Mean value of monthly temperature across the year
+Ae41,EA202,NA,Kota,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.38332789,Mean value of monthly temperature across the year
+Ae42,EA202,9000,Ngumba,Population size,Population,NA,NA,AnnualMeanTemperature,23.31469912,Mean value of monthly temperature across the year
+Ae43,EA202,NA,Sanga,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.59872354,Mean value of monthly temperature across the year
+Ae44,EA202,9350,Bubi,Population size,Population,NA,NA,AnnualMeanTemperature,25.86279363,Mean value of monthly temperature across the year
+Ae45,EA202,35000,Kundu,Population size,Population,NA,NA,AnnualMeanTemperature,23.33548115,Mean value of monthly temperature across the year
+Ae46,EA202,NA,Mpongwe,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.51167805,Mean value of monthly temperature across the year
+Ae47,EA202,713,Puku,Population size,Population,NA,NA,AnnualMeanTemperature,24.72389561,Mean value of monthly temperature across the year
+Ae48,EA202,12000,Bafia,Population size,Population,NA,NA,AnnualMeanTemperature,21.62352393,Mean value of monthly temperature across the year
+Ae49,EA202,23000,Bali Nyonga,Population size,Population,NA,NA,AnnualMeanTemperature,21.61891109,Mean value of monthly temperature across the year
+Ae5,EA202,455000,Bamileke,Population size,Population,NA,NA,AnnualMeanTemperature,22.49133984,Mean value of monthly temperature across the year
+Ae50,EA202,80000,Bamum,Population size,Population,NA,NA,AnnualMeanTemperature,20.74616439,Mean value of monthly temperature across the year
+Ae51,EA202,25000,Banen,Population size,Population,NA,NA,AnnualMeanTemperature,21.62352393,Mean value of monthly temperature across the year
+Ae52,EA202,20000,Fungom,Population size,Population,NA,NA,AnnualMeanTemperature,21.78043304,Mean value of monthly temperature across the year
+Ae53,EA202,40000,Koko,Population size,Population,NA,NA,AnnualMeanTemperature,22.78004649,Mean value of monthly temperature across the year
+Ae54,EA202,27000,Kom,Population size,Population,NA,NA,AnnualMeanTemperature,21.61891109,Mean value of monthly temperature across the year
+Ae55,EA202,44000,Ndob,Population size,Population,NA,NA,AnnualMeanTemperature,21.61891109,Mean value of monthly temperature across the year
+Ae56,EA202,60000,Nsaw,Population size,Population,NA,NA,AnnualMeanTemperature,20.74616439,Mean value of monthly temperature across the year
+Ae57,EA202,36000,Nsungli,Population size,Population,NA,NA,AnnualMeanTemperature,20.74616439,Mean value of monthly temperature across the year
+Ae58,EA202,10000,Tikar,Population size,Population,NA,NA,AnnualMeanTemperature,20.20665192,Mean value of monthly temperature across the year
+Ae59,EA202,93000,Widikum,Population size,Population,NA,NA,AnnualMeanTemperature,21.61891109,Mean value of monthly temperature across the year
+Ae6,EA202,NA,Luba,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.58774345,Mean value of monthly temperature across the year
+Ae7,EA202,16000,Baboa,Population size,Population,NA,NA,AnnualMeanTemperature,22.42532307,Mean value of monthly temperature across the year
+Ae8,EA202,2e+06,Rundi,Population size,Population,NA,NA,AnnualMeanTemperature,16.5840068,Mean value of monthly temperature across the year
+Ae9,EA202,34000,Fut,Population size,Population,NA,NA,AnnualMeanTemperature,21.61891109,Mean value of monthly temperature across the year
+Af1,EA202,250000,Fon,Population size,Population,NA,NA,AnnualMeanTemperature,25.5805295,Mean value of monthly temperature across the year
+Af10,EA202,4e+06,Igbo,Population size,Population,NA,NA,AnnualMeanTemperature,24.33533063,Mean value of monthly temperature across the year
+Af11,EA202,150000,Toma,Population size,Population,NA,NA,AnnualMeanTemperature,24.71808026,Mean value of monthly temperature across the year
+Af12,EA202,65000,Akyem,Population size,Population,NA,NA,AnnualMeanTemperature,24.22771708,Mean value of monthly temperature across the year
+Af13,EA202,150000,Ebira,Population size,Population,NA,NA,AnnualMeanTemperature,24.15890561,Mean value of monthly temperature across the year
+Af14,EA202,1e+05,Sherbro,Population size,Population,NA,NA,AnnualMeanTemperature,26.22668906,Mean value of monthly temperature across the year
+Af15,EA202,175000,Kpelle,Population size,Population,NA,NA,AnnualMeanTemperature,23.26514451,Mean value of monthly temperature across the year
+Af16,EA202,25000,Banyang,Population size,Population,NA,NA,AnnualMeanTemperature,22.8464794,Mean value of monthly temperature across the year
+Af17,EA202,NA,Boki,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.8464794,Mean value of monthly temperature across the year
+Af18,EA202,90000,Ekoi,Population size,Population,NA,NA,AnnualMeanTemperature,24.02845009,Mean value of monthly temperature across the year
+Af19,EA202,30000,Efik,Population size,Population,NA,NA,AnnualMeanTemperature,24.77192821,Mean value of monthly temperature across the year
+Af2,EA202,2e+05,Kissi,Population size,Population,NA,NA,AnnualMeanTemperature,22.1376006,Mean value of monthly temperature across the year
+Af20,EA202,1e+06,Ibibio,Population size,Population,NA,NA,AnnualMeanTemperature,24.77192821,Mean value of monthly temperature across the year
+Af21,EA202,175000,Ijaw,Population size,Population,NA,NA,AnnualMeanTemperature,26.26666107,Mean value of monthly temperature across the year
+Af22,EA202,33000,Itsekiri,Population size,Population,NA,NA,AnnualMeanTemperature,25.83284678,Mean value of monthly temperature across the year
+Af23,EA202,35000,Afikpo,Population size,Population,NA,NA,AnnualMeanTemperature,24.02845009,Mean value of monthly temperature across the year
+Af24,EA202,2e+05,Edo,Population size,Population,NA,NA,AnnualMeanTemperature,25.00101362,Mean value of monthly temperature across the year
+Af25,EA202,435000,Isoko,Population size,Population,NA,NA,AnnualMeanTemperature,25.80226971,Mean value of monthly temperature across the year
+Af26,EA202,193000,Kukuruku,Population size,Population,NA,NA,AnnualMeanTemperature,24.24164913,Mean value of monthly temperature across the year
+Af27,EA202,7600,Eloyi,Population size,Population,NA,NA,AnnualMeanTemperature,24.31231705,Mean value of monthly temperature across the year
+Af28,EA202,2e+05,Gbagyi,Population size,Population,NA,NA,AnnualMeanTemperature,23.74229365,Mean value of monthly temperature across the year
+Af29,EA202,2e+05,Idoma,Population size,Population,NA,NA,AnnualMeanTemperature,23.98630768,Mean value of monthly temperature across the year
+Af3,EA202,NA,Ashanti,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.84137538,Mean value of monthly temperature across the year
+Af30,EA202,2e+05,Igala,Population size,Population,NA,NA,AnnualMeanTemperature,24.0312026,Mean value of monthly temperature across the year
+Af31,EA202,30000,Koro,Population size,Population,NA,NA,AnnualMeanTemperature,24.72755085,Mean value of monthly temperature across the year
+Af32,EA202,5e+05,Egba,Population size,Population,NA,NA,AnnualMeanTemperature,25.42741644,Mean value of monthly temperature across the year
+Af33,EA202,220000,Ekiti,Population size,Population,NA,NA,AnnualMeanTemperature,24.21785441,Mean value of monthly temperature across the year
+Af34,EA202,170000,Ife,Population size,Population,NA,NA,AnnualMeanTemperature,24.67961895,Mean value of monthly temperature across the year
+Af35,EA202,1e+05,Adangme,Population size,Population,NA,NA,AnnualMeanTemperature,25.52951265,Mean value of monthly temperature across the year
+Af36,EA202,7e+05,Ewe,Population size,Population,NA,NA,AnnualMeanTemperature,25.20482884,Mean value of monthly temperature across the year
+Af37,EA202,1500,Buem,Population size,Population,NA,NA,AnnualMeanTemperature,24.80392834,Mean value of monthly temperature across the year
+Af38,EA202,75000,Abron,Population size,Population,NA,NA,AnnualMeanTemperature,24.17855816,Mean value of monthly temperature across the year
+Af39,EA202,1e+05,Anyi,Population size,Population,NA,NA,AnnualMeanTemperature,23.78214101,Mean value of monthly temperature across the year
+Af4,EA202,20000,Yako,Population size,Population,NA,NA,AnnualMeanTemperature,24.02845009,Mean value of monthly temperature across the year
+Af40,EA202,2000,Assini,Population size,Population,NA,NA,AnnualMeanTemperature,25.37455134,Mean value of monthly temperature across the year
+Af41,EA202,60000,Attie,Population size,Population,NA,NA,AnnualMeanTemperature,24.53902011,Mean value of monthly temperature across the year
+Af42,EA202,2e+05,Fante,Population size,Population,NA,NA,AnnualMeanTemperature,24.76505078,Mean value of monthly temperature across the year
+Af43,EA202,NA,Ga,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.52951265,Mean value of monthly temperature across the year
+Af44,EA202,5000,Alagya,Population size,Population,NA,NA,AnnualMeanTemperature,25.34330238,Mean value of monthly temperature across the year
+Af45,EA202,5000,Avikam,Population size,Population,NA,NA,AnnualMeanTemperature,24.92835613,Mean value of monthly temperature across the year
+Af46,EA202,16000,Bakwe,Population size,Population,NA,NA,AnnualMeanTemperature,25.02406544,Mean value of monthly temperature across the year
+Af47,EA202,15000,Krahn,Population size,Population,NA,NA,AnnualMeanTemperature,23.84734071,Mean value of monthly temperature across the year
+Af48,EA202,NA,Kru,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.9751578,Mean value of monthly temperature across the year
+Af49,EA202,NA,Sapo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.75258992,Mean value of monthly temperature across the year
+Af5,EA202,NA,Mende,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.7416769,Mean value of monthly temperature across the year
+Af50,EA202,1e+05,Dan,Population size,Population,NA,NA,AnnualMeanTemperature,24.31231705,Mean value of monthly temperature across the year
+Af51,EA202,13000,Gagu,Population size,Population,NA,NA,AnnualMeanTemperature,23.47869291,Mean value of monthly temperature across the year
+Af52,EA202,110000,Guro,Population size,Population,NA,NA,AnnualMeanTemperature,23.47869291,Mean value of monthly temperature across the year
+Af53,EA202,10600,Tura,Population size,Population,NA,NA,AnnualMeanTemperature,22.50376805,Mean value of monthly temperature across the year
+Af54,EA202,25000,Gbande,Population size,Population,NA,NA,AnnualMeanTemperature,22.29450072,Mean value of monthly temperature across the year
+Af55,EA202,8500,Gola,Population size,Population,NA,NA,AnnualMeanTemperature,25.41882766,Mean value of monthly temperature across the year
+Af56,EA202,72000,Ngere,Population size,Population,NA,NA,AnnualMeanTemperature,22.87154294,Mean value of monthly temperature across the year
+Af57,EA202,525000,Temne,Population size,Population,NA,NA,AnnualMeanTemperature,26.0519274,Mean value of monthly temperature across the year
+Af58,EA202,40000,Vai,Population size,Population,NA,NA,AnnualMeanTemperature,25.914022,Mean value of monthly temperature across the year
+Af6,EA202,5500000,Oyo Yoruba,Population size,Population,NA,NA,AnnualMeanTemperature,24.40650964,Mean value of monthly temperature across the year
+Af7,EA202,150000,Bete,Population size,Population,NA,NA,AnnualMeanTemperature,23.58826588,Mean value of monthly temperature across the year
+Af8,EA202,360000,Nupe,Population size,Population,NA,NA,AnnualMeanTemperature,24.45221458,Mean value of monthly temperature across the year
+Af9,EA202,383000,Baule,Population size,Population,NA,NA,AnnualMeanTemperature,23.98975294,Mean value of monthly temperature across the year
+Ag1,EA202,5e+05,Bambara,Population size,Population,NA,NA,AnnualMeanTemperature,26.57540126,Mean value of monthly temperature across the year
+Ag10,EA202,60000,Konkomba,Population size,Population,NA,NA,AnnualMeanTemperature,25.91696084,Mean value of monthly temperature across the year
+Ag11,EA202,1e+05,Lobi,Population size,Population,NA,NA,AnnualMeanTemperature,25.25313275,Mean value of monthly temperature across the year
+Ag12,EA202,70000,Nankanse,Population size,Population,NA,NA,AnnualMeanTemperature,25.88265019,Mean value of monthly temperature across the year
+Ag13,EA202,40000,Kasena,Population size,Population,NA,NA,AnnualMeanTemperature,26.2262842,Mean value of monthly temperature across the year
+Ag14,EA202,43000,Baga,Population size,Population,NA,NA,AnnualMeanTemperature,26.07172635,Mean value of monthly temperature across the year
+Ag15,EA202,167000,Balanta,Population size,Population,NA,NA,AnnualMeanTemperature,26.65246788,Mean value of monthly temperature across the year
+Ag16,EA202,7500,Banyun,Population size,Population,NA,NA,AnnualMeanTemperature,26.65246788,Mean value of monthly temperature across the year
+Ag17,EA202,10000,Biafada,Population size,Population,NA,NA,AnnualMeanTemperature,27.13149932,Mean value of monthly temperature across the year
+Ag18,EA202,20000,Bijogo,Population size,Population,NA,NA,AnnualMeanTemperature,26.53672536,Mean value of monthly temperature across the year
+Ag19,EA202,155000,Diola,Population size,Population,NA,NA,AnnualMeanTemperature,26.23943081,Mean value of monthly temperature across the year
+Ag2,EA202,1700000,Mossi (Yatenga),Population size,Population,NA,NA,AnnualMeanTemperature,26.67229474,Mean value of monthly temperature across the year
+Ag20,EA202,36000,Papel,Population size,Population,NA,NA,AnnualMeanTemperature,26.65246788,Mean value of monthly temperature across the year
+Ag21,EA202,7600,Bassari,Population size,Population,NA,NA,AnnualMeanTemperature,26.63431761,Mean value of monthly temperature across the year
+Ag22,EA202,3e+05,Serer,Population size,Population,NA,NA,AnnualMeanTemperature,29.15332438,Mean value of monthly temperature across the year
+Ag23,EA202,75000,Kasonke,Population size,Population,NA,NA,AnnualMeanTemperature,27.14277558,Mean value of monthly temperature across the year
+Ag24,EA202,125000,Koranko,Population size,Population,NA,NA,AnnualMeanTemperature,23.06990964,Mean value of monthly temperature across the year
+Ag25,EA202,360000,Soninke,Population size,Population,NA,NA,AnnualMeanTemperature,23.96360188,Mean value of monthly temperature across the year
+Ag26,EA202,3e+05,Susu,Population size,Population,NA,NA,AnnualMeanTemperature,28.88161245,Mean value of monthly temperature across the year
+Ag27,EA202,160000,Diula,Population size,Population,NA,NA,AnnualMeanTemperature,24.62079754,Mean value of monthly temperature across the year
+Ag28,EA202,NA,Nononke,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.80436338,Mean value of monthly temperature across the year
+Ag29,EA202,95000,Samo,Population size,Population,NA,NA,AnnualMeanTemperature,26.62545985,Mean value of monthly temperature across the year
+Ag3,EA202,225000,Dogon,Population size,Population,NA,NA,AnnualMeanTemperature,27.17925379,Mean value of monthly temperature across the year
+Ag30,EA202,240000,Bobo,Population size,Population,NA,NA,AnnualMeanTemperature,26.62340245,Mean value of monthly temperature across the year
+Ag31,EA202,154000,Minianka,Population size,Population,NA,NA,AnnualMeanTemperature,26.03995589,Mean value of monthly temperature across the year
+Ag32,EA202,540000,Senufo,Population size,Population,NA,NA,AnnualMeanTemperature,24.96028286,Mean value of monthly temperature across the year
+Ag33,EA202,10500,Dyan,Population size,Population,NA,NA,AnnualMeanTemperature,25.77484055,Mean value of monthly temperature across the year
+Ag34,EA202,8000,Dorosie,Population size,Population,NA,NA,AnnualMeanTemperature,25.60410556,Mean value of monthly temperature across the year
+Ag35,EA202,25000,Kulango,Population size,Population,NA,NA,AnnualMeanTemperature,23.72491794,Mean value of monthly temperature across the year
+Ag36,EA202,NA,Lowiili,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.77484055,Mean value of monthly temperature across the year
+Ag37,EA202,NA,Awuna,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.97881217,Mean value of monthly temperature across the year
+Ag38,EA202,55000,Builsa,Population size,Population,NA,NA,AnnualMeanTemperature,25.97881217,Mean value of monthly temperature across the year
+Ag39,EA202,120000,Dagara,Population size,Population,NA,NA,AnnualMeanTemperature,25.77484055,Mean value of monthly temperature across the year
+Ag4,EA202,35000,Tallensi,Population size,Population,NA,NA,AnnualMeanTemperature,26.2262842,Mean value of monthly temperature across the year
+Ag40,EA202,45000,Isala,Population size,Population,NA,NA,AnnualMeanTemperature,25.63873897,Mean value of monthly temperature across the year
+Ag41,EA202,93000,Kusasi,Population size,Population,NA,NA,AnnualMeanTemperature,26.2496969,Mean value of monthly temperature across the year
+Ag42,EA202,34000,Nunuma,Population size,Population,NA,NA,AnnualMeanTemperature,26.45019144,Mean value of monthly temperature across the year
+Ag43,EA202,1000,Vagala,Population size,Population,NA,NA,AnnualMeanTemperature,24.37653513,Mean value of monthly temperature across the year
+Ag44,EA202,175000,Dagomba,Population size,Population,NA,NA,AnnualMeanTemperature,25.41229808,Mean value of monthly temperature across the year
+Ag45,EA202,150000,Gurma,Population size,Population,NA,NA,AnnualMeanTemperature,26.34580343,Mean value of monthly temperature across the year
+Ag46,EA202,50000,Manprusi,Population size,Population,NA,NA,AnnualMeanTemperature,25.88265019,Mean value of monthly temperature across the year
+Ag47,EA202,1300000,Mossi (Ouagadougou),Population size,Population,NA,NA,AnnualMeanTemperature,26.45525209,Mean value of monthly temperature across the year
+Ag48,EA202,40000,Basari,Population size,Population,NA,NA,AnnualMeanTemperature,25.2763049,Mean value of monthly temperature across the year
+Ag49,EA202,157000,Kabre,Population size,Population,NA,NA,AnnualMeanTemperature,25.40620476,Mean value of monthly temperature across the year
+Ag5,EA202,85000,Birifor,Population size,Population,NA,NA,AnnualMeanTemperature,25.39308508,Mean value of monthly temperature across the year
+Ag50,EA202,48000,Moba,Population size,Population,NA,NA,AnnualMeanTemperature,25.9345926,Mean value of monthly temperature across the year
+Ag51,EA202,50000,Somba,Population size,Population,NA,NA,AnnualMeanTemperature,25.9345926,Mean value of monthly temperature across the year
+Ag52,EA202,87000,Tem,Population size,Population,NA,NA,AnnualMeanTemperature,25.9345926,Mean value of monthly temperature across the year
+Ag53,EA202,2e+05,Bisa,Population size,Population,NA,NA,AnnualMeanTemperature,26.08824207,Mean value of monthly temperature across the year
+Ag54,EA202,115000,Yalunka,Population size,Population,NA,NA,AnnualMeanTemperature,22.97892619,Mean value of monthly temperature across the year
+Ag6,EA202,720000,Futajalonke,Population size,Population,NA,NA,AnnualMeanTemperature,24.83845237,Mean value of monthly temperature across the year
+Ag7,EA202,29000,Bozo,Population size,Population,NA,NA,AnnualMeanTemperature,27.19444912,Mean value of monthly temperature across the year
+Ag8,EA202,18000,Coniagui,Population size,Population,NA,NA,AnnualMeanTemperature,28.12377005,Mean value of monthly temperature across the year
+Ag9,EA202,830000,Malinke,Population size,Population,NA,NA,AnnualMeanTemperature,24.71808026,Mean value of monthly temperature across the year
+Ah1,EA202,18000,Katab,Population size,Population,NA,NA,AnnualMeanTemperature,23.19933534,Mean value of monthly temperature across the year
+Ah10,EA202,8500,Chawai,Population size,Population,NA,NA,AnnualMeanTemperature,23.33548115,Mean value of monthly temperature across the year
+Ah11,EA202,70000,Basa,Population size,Population,NA,NA,AnnualMeanTemperature,24.31231705,Mean value of monthly temperature across the year
+Ah12,EA202,12300,Basakomo,Population size,Population,NA,NA,AnnualMeanTemperature,24.15890561,Mean value of monthly temperature across the year
+Ah13,EA202,47000,Dakakari,Population size,Population,NA,NA,AnnualMeanTemperature,26.11575223,Mean value of monthly temperature across the year
+Ah14,EA202,22000,Kamuku,Population size,Population,NA,NA,AnnualMeanTemperature,24.98985376,Mean value of monthly temperature across the year
+Ah15,EA202,20000,Reshe,Population size,Population,NA,NA,AnnualMeanTemperature,25.7320385,Mean value of monthly temperature across the year
+Ah16,EA202,55000,Angas,Population size,Population,NA,NA,AnnualMeanTemperature,24.49150511,Mean value of monthly temperature across the year
+Ah17,EA202,60000,Birom,Population size,Population,NA,NA,AnnualMeanTemperature,23.33548115,Mean value of monthly temperature across the year
+Ah18,EA202,23000,Burmawa,Population size,Population,NA,NA,AnnualMeanTemperature,23.74229365,Mean value of monthly temperature across the year
+Ah19,EA202,10000,Adara,Population size,Population,NA,NA,AnnualMeanTemperature,23.19933534,Mean value of monthly temperature across the year
+Ah2,EA202,25000,Jukun,Population size,Population,NA,NA,AnnualMeanTemperature,23.58199329,Mean value of monthly temperature across the year
+Ah20,EA202,10500,Kagoro,Population size,Population,NA,NA,AnnualMeanTemperature,23.19933534,Mean value of monthly temperature across the year
+Ah21,EA202,25000,Kurama,Population size,Population,NA,NA,AnnualMeanTemperature,23.33548115,Mean value of monthly temperature across the year
+Ah22,EA202,30000,Yergum,Population size,Population,NA,NA,AnnualMeanTemperature,24.48420682,Mean value of monthly temperature across the year
+Ah23,EA202,5000,Jibu,Population size,Population,NA,NA,AnnualMeanTemperature,23.13779079,Mean value of monthly temperature across the year
+Ah24,EA202,5000,Kentu,Population size,Population,NA,NA,AnnualMeanTemperature,21.78043304,Mean value of monthly temperature across the year
+Ah25,EA202,4000,Tigon,Population size,Population,NA,NA,AnnualMeanTemperature,23.31714371,Mean value of monthly temperature across the year
+Ah26,EA202,1700,Ndoro,Population size,Population,NA,NA,AnnualMeanTemperature,20.54744566,Mean value of monthly temperature across the year
+Ah27,EA202,1000,Zuande,Population size,Population,NA,NA,AnnualMeanTemperature,20.54744566,Mean value of monthly temperature across the year
+Ah28,EA202,20000,Chamba,Population size,Population,NA,NA,AnnualMeanTemperature,23.13779079,Mean value of monthly temperature across the year
+Ah29,EA202,5000,Daka,Population size,Population,NA,NA,AnnualMeanTemperature,23.13779079,Mean value of monthly temperature across the year
+Ah3,EA202,530000,Tiv,Population size,Population,NA,NA,AnnualMeanTemperature,23.1944689,Mean value of monthly temperature across the year
+Ah30,EA202,12000,Longuda,Population size,Population,NA,NA,AnnualMeanTemperature,24.21019156,Mean value of monthly temperature across the year
+Ah31,EA202,65000,Mumuye,Population size,Population,NA,NA,AnnualMeanTemperature,24.01553441,Mean value of monthly temperature across the year
+Ah32,EA202,10000,Vere,Population size,Population,NA,NA,AnnualMeanTemperature,23.93756648,Mean value of monthly temperature across the year
+Ah33,EA202,9000,Yungur,Population size,Population,NA,NA,AnnualMeanTemperature,24.21019156,Mean value of monthly temperature across the year
+Ah34,EA202,30000,Bata,Population size,Population,NA,NA,AnnualMeanTemperature,24.68768162,Mean value of monthly temperature across the year
+Ah35,EA202,81000,Bura,Population size,Population,NA,NA,AnnualMeanTemperature,24.21019156,Mean value of monthly temperature across the year
+Ah36,EA202,30000,Gude,Population size,Population,NA,NA,AnnualMeanTemperature,24.68768162,Mean value of monthly temperature across the year
+Ah37,EA202,4500,Hwana,Population size,Population,NA,NA,AnnualMeanTemperature,24.68768162,Mean value of monthly temperature across the year
+Ah38,EA202,25000,Kapsiki,Population size,Population,NA,NA,AnnualMeanTemperature,25.46309669,Mean value of monthly temperature across the year
+Ah39,EA202,10000,Podokwo,Population size,Population,NA,NA,AnnualMeanTemperature,25.46309669,Mean value of monthly temperature across the year
+Ah4,EA202,18000,Mambila,Population size,Population,NA,NA,AnnualMeanTemperature,19.70572109,Mean value of monthly temperature across the year
+Ah5,EA202,50000,Margi,Population size,Population,NA,NA,AnnualMeanTemperature,24.84576027,Mean value of monthly temperature across the year
+Ah6,EA202,4000,Gure,Population size,Population,NA,NA,AnnualMeanTemperature,23.19933534,Mean value of monthly temperature across the year
+Ah7,EA202,1e+05,Mafa,Population size,Population,NA,NA,AnnualMeanTemperature,25.46309669,Mean value of monthly temperature across the year
+Ah8,EA202,30000,Bafute,Population size,Population,NA,NA,AnnualMeanTemperature,20.20665192,Mean value of monthly temperature across the year
+Ah9,EA202,5730,Anaguta,Population size,Population,NA,NA,AnnualMeanTemperature,23.33548115,Mean value of monthly temperature across the year
+Ai1,EA202,NA,Banda,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.23462955,Mean value of monthly temperature across the year
+Ai10,EA202,NA,Otoro,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.57075194,Mean value of monthly temperature across the year
+Ai11,EA202,5e+05,Mangbetu,Population size,Population,NA,NA,AnnualMeanTemperature,21.40831669,Mean value of monthly temperature across the year
+Ai12,EA202,20000,Fali,Population size,Population,NA,NA,AnnualMeanTemperature,25.15970476,Mean value of monthly temperature across the year
+Ai13,EA202,NA,Laka,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.44344347,Mean value of monthly temperature across the year
+Ai14,EA202,25000,Mbum,Population size,Population,NA,NA,AnnualMeanTemperature,19.47161357,Mean value of monthly temperature across the year
+Ai15,EA202,90000,Mundang,Population size,Population,NA,NA,AnnualMeanTemperature,25.15970476,Mean value of monthly temperature across the year
+Ai16,EA202,15000,Namshi,Population size,Population,NA,NA,AnnualMeanTemperature,23.93756648,Mean value of monthly temperature across the year
+Ai17,EA202,44000,Gisiga,Population size,Population,NA,NA,AnnualMeanTemperature,25.15970476,Mean value of monthly temperature across the year
+Ai18,EA202,30000,Kotoko,Population size,Population,NA,NA,AnnualMeanTemperature,26.77476346,Mean value of monthly temperature across the year
+Ai19,EA202,NA,Musgu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.89959199,Mean value of monthly temperature across the year
+Ai2,EA202,2000,Nyaro,Population size,Population,NA,NA,AnnualMeanTemperature,25.80387618,Mean value of monthly temperature across the year
+Ai20,EA202,65000,Tupuri,Population size,Population,NA,NA,AnnualMeanTemperature,25.2574582,Mean value of monthly temperature across the year
+Ai21,EA202,26000,Bagirmi,Population size,Population,NA,NA,AnnualMeanTemperature,26.12802776,Mean value of monthly temperature across the year
+Ai22,EA202,NA,Sara,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.19426693,Mean value of monthly temperature across the year
+Ai23,EA202,180000,Bwaka,Population size,Population,NA,NA,AnnualMeanTemperature,22.6887966,Mean value of monthly temperature across the year
+Ai24,EA202,24000,Mandja,Population size,Population,NA,NA,AnnualMeanTemperature,22.50870046,Mean value of monthly temperature across the year
+Ai25,EA202,80000,Mbandja,Population size,Population,NA,NA,AnnualMeanTemperature,22.55246397,Mean value of monthly temperature across the year
+Ai26,EA202,115000,Ngbandi,Population size,Population,NA,NA,AnnualMeanTemperature,22.45053379,Mean value of monthly temperature across the year
+Ai27,EA202,50000,Abarambo,Population size,Population,NA,NA,AnnualMeanTemperature,21.83753019,Mean value of monthly temperature across the year
+Ai28,EA202,5500,Popoi,Population size,Population,NA,NA,AnnualMeanTemperature,22.43182743,Mean value of monthly temperature across the year
+Ai29,EA202,150000,Lendu,Population size,Population,NA,NA,AnnualMeanTemperature,19.55026552,Mean value of monthly temperature across the year
+Ai3,EA202,2e+06,Azande,Population size,Population,NA,NA,AnnualMeanTemperature,21.95688464,Mean value of monthly temperature across the year
+Ai30,EA202,19000,Lese,Population size,Population,NA,NA,AnnualMeanTemperature,20.16360766,Mean value of monthly temperature across the year
+Ai31,EA202,50000,Logo,Population size,Population,NA,NA,AnnualMeanTemperature,19.92797222,Mean value of monthly temperature across the year
+Ai32,EA202,240000,Lugbara,Population size,Population,NA,NA,AnnualMeanTemperature,22.9247409,Mean value of monthly temperature across the year
+Ai33,EA202,66000,Madi,Population size,Population,NA,NA,AnnualMeanTemperature,23.31765468,Mean value of monthly temperature across the year
+Ai34,EA202,20000,Moru,Population size,Population,NA,NA,AnnualMeanTemperature,22.08297037,Mean value of monthly temperature across the year
+Ai35,EA202,5000,Bongo,Population size,Population,NA,NA,AnnualMeanTemperature,23.61649912,Mean value of monthly temperature across the year
+Ai36,EA202,NA,Jur,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.84792175,Mean value of monthly temperature across the year
+Ai37,EA202,20000,Koalib,Population size,Population,NA,NA,AnnualMeanTemperature,25.57075194,Mean value of monthly temperature across the year
+Ai38,EA202,14000,Korongo,Population size,Population,NA,NA,AnnualMeanTemperature,25.62836725,Mean value of monthly temperature across the year
+Ai39,EA202,6000,Mesakin,Population size,Population,NA,NA,AnnualMeanTemperature,25.7611338,Mean value of monthly temperature across the year
+Ai4,EA202,12000,Ingassana,Population size,Population,NA,NA,AnnualMeanTemperature,25.86598334,Mean value of monthly temperature across the year
+Ai40,EA202,20000,Moro,Population size,Population,NA,NA,AnnualMeanTemperature,25.7611338,Mean value of monthly temperature across the year
+Ai41,EA202,8000,Tira,Population size,Population,NA,NA,AnnualMeanTemperature,25.7611338,Mean value of monthly temperature across the year
+Ai42,EA202,3500,Tullishi,Population size,Population,NA,NA,AnnualMeanTemperature,25.0612008,Mean value of monthly temperature across the year
+Ai43,EA202,37000,Nyimang,Population size,Population,NA,NA,AnnualMeanTemperature,25.0612008,Mean value of monthly temperature across the year
+Ai44,EA202,35000,Anuak,Population size,Population,NA,NA,AnnualMeanTemperature,22.92792762,Mean value of monthly temperature across the year
+Ai45,EA202,NA,Meban,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.27147736,Mean value of monthly temperature across the year
+Ai46,EA202,3000,Koma,Population size,Population,NA,NA,AnnualMeanTemperature,20.24194014,Mean value of monthly temperature across the year
+Ai47,EA202,NA,Mao,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.24194014,Mean value of monthly temperature across the year
+Ai5,EA202,33000,Mamvu,Population size,Population,NA,NA,AnnualMeanTemperature,20.46878431,Mean value of monthly temperature across the year
+Ai6,EA202,1e+05,Shilluk,Population size,Population,NA,NA,AnnualMeanTemperature,25.47652383,Mean value of monthly temperature across the year
+Ai7,EA202,2e+05,Gbaya,Population size,Population,NA,NA,AnnualMeanTemperature,21.01229167,Mean value of monthly temperature across the year
+Ai8,EA202,8000,Dilling,Population size,Population,NA,NA,AnnualMeanTemperature,25.14718173,Mean value of monthly temperature across the year
+Ai9,EA202,NA,Masa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.48419941,Mean value of monthly temperature across the year
+Aj1,EA202,560000,Teso,Population size,Population,NA,NA,AnnualMeanTemperature,22.51345889,Mean value of monthly temperature across the year
+Aj10,EA202,2e+05,Acholi,Population size,Population,NA,NA,AnnualMeanTemperature,22.9247409,Mean value of monthly temperature across the year
+Aj11,EA202,5e+05,Dinka,Population size,Population,NA,NA,AnnualMeanTemperature,25.17594399,Mean value of monthly temperature across the year
+Aj12,EA202,60000,Lotuko,Population size,Population,NA,NA,AnnualMeanTemperature,23.81176288,Mean value of monthly temperature across the year
+Aj13,EA202,25000,Pojulu,Population size,Population,NA,NA,AnnualMeanTemperature,21.95145683,Mean value of monthly temperature across the year
+Aj14,EA202,45000,Kakwa,Population size,Population,NA,NA,AnnualMeanTemperature,21.95145683,Mean value of monthly temperature across the year
+Aj15,EA202,26000,Kuku,Population size,Population,NA,NA,AnnualMeanTemperature,23.31765468,Mean value of monthly temperature across the year
+Aj16,EA202,22000,Mondari,Population size,Population,NA,NA,AnnualMeanTemperature,23.69582022,Mean value of monthly temperature across the year
+Aj17,EA202,2e+05,Alur,Population size,Population,NA,NA,AnnualMeanTemperature,20.88007696,Mean value of monthly temperature across the year
+Aj18,EA202,2600,Bodi,Population size,Population,NA,NA,AnnualMeanTemperature,25.44894183,Mean value of monthly temperature across the year
+Aj19,EA202,25000,Didinga,Population size,Population,NA,NA,AnnualMeanTemperature,24.75381072,Mean value of monthly temperature across the year
+Aj2,EA202,12500,Maasi,Population size,Population,NA,NA,AnnualMeanTemperature,18.96295296,Mean value of monthly temperature across the year
+Aj20,EA202,4000,Suri,Population size,Population,NA,NA,AnnualMeanTemperature,23.79975813,Mean value of monthly temperature across the year
+Aj21,EA202,18000,Jie,Population size,Population,NA,NA,AnnualMeanTemperature,24.11172596,Mean value of monthly temperature across the year
+Aj22,EA202,5200,Labwor,Population size,Population,NA,NA,AnnualMeanTemperature,24.11172596,Mean value of monthly temperature across the year
+Aj23,EA202,42000,Plains Suk,Population size,Population,NA,NA,AnnualMeanTemperature,20.29042184,Mean value of monthly temperature across the year
+Aj24,EA202,34000,Toposa,Population size,Population,NA,NA,AnnualMeanTemperature,24.47161082,Mean value of monthly temperature across the year
+Aj25,EA202,40000,Keyu,Population size,Population,NA,NA,AnnualMeanTemperature,19.01419744,Mean value of monthly temperature across the year
+Aj26,EA202,20000,Hill Suk,Population size,Population,NA,NA,AnnualMeanTemperature,20.29042184,Mean value of monthly temperature across the year
+Aj27,EA202,24000,Sapei,Population size,Population,NA,NA,AnnualMeanTemperature,20.56682952,Mean value of monthly temperature across the year
+Aj28,EA202,20000,Tatoga,Population size,Population,NA,NA,AnnualMeanTemperature,18.81596701,Mean value of monthly temperature across the year
+Aj29,EA202,30000,Samburu,Population size,Population,NA,NA,AnnualMeanTemperature,21.01970259,Mean value of monthly temperature across the year
+Aj3,EA202,430000,Nuer,Population size,Population,NA,NA,AnnualMeanTemperature,24.47479061,Mean value of monthly temperature across the year
+Aj30,EA202,60000,Karamojong,Population size,Population,NA,NA,AnnualMeanTemperature,22.51345889,Mean value of monthly temperature across the year
+Aj31,EA202,7000,Pari,Population size,Population,NA,NA,AnnualMeanTemperature,23.88627506,Mean value of monthly temperature across the year
+Aj4,EA202,275000,Lango,Population size,Population,NA,NA,AnnualMeanTemperature,22.94130619,Mean value of monthly temperature across the year
+Aj5,EA202,80000,Turkana,Population size,Population,NA,NA,AnnualMeanTemperature,25.68695862,Mean value of monthly temperature across the year
+Aj6,EA202,8e+05,Luo,Population size,Population,NA,NA,AnnualMeanTemperature,19.42060864,Mean value of monthly temperature across the year
+Aj7,EA202,113000,Nandi,Population size,Population,NA,NA,AnnualMeanTemperature,19.39983749,Mean value of monthly temperature across the year
+Aj8,EA202,35000,Bari,Population size,Population,NA,NA,AnnualMeanTemperature,23.82347936,Mean value of monthly temperature across the year
+Aj9,EA202,157000,Kipsigis,Population size,Population,NA,NA,AnnualMeanTemperature,18.3564765,Mean value of monthly temperature across the year
+Ca1,EA202,NA,Konso,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.66024055,Mean value of monthly temperature across the year
+Ca10,EA202,70000,Somali (Esa),Population size,Population,NA,NA,AnnualMeanTemperature,22.16009425,Mean value of monthly temperature across the year
+Ca11,EA202,NA,Arusi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.01859919,Mean value of monthly temperature across the year
+Ca12,EA202,NA,Gibe,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.99929593,Mean value of monthly temperature across the year
+Ca13,EA202,NA,Macha,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.41338226,Mean value of monthly temperature across the year
+Ca14,EA202,NA,Burji,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.39022001,Mean value of monthly temperature across the year
+Ca15,EA202,NA,Darasa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.26233973,Mean value of monthly temperature across the year
+Ca16,EA202,NA,Sidama,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.15620502,Mean value of monthly temperature across the year
+Ca17,EA202,1000,Tsamai,Population size,Population,NA,NA,AnnualMeanTemperature,24.26918515,Mean value of monthly temperature across the year
+Ca18,EA202,1500,Arbore,Population size,Population,NA,NA,AnnualMeanTemperature,24.26918515,Mean value of monthly temperature across the year
+Ca19,EA202,5000,Banna,Population size,Population,NA,NA,AnnualMeanTemperature,23.23806026,Mean value of monthly temperature across the year
+Ca2,EA202,NA,Somali (Dolbahanta),Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.66587207,Mean value of monthly temperature across the year
+Ca20,EA202,2500,Galab,Population size,Population,NA,NA,AnnualMeanTemperature,25.44471128,Mean value of monthly temperature across the year
+Ca21,EA202,9000,Hamar,Population size,Population,NA,NA,AnnualMeanTemperature,25.44471128,Mean value of monthly temperature across the year
+Ca22,EA202,3800,Male,Population size,Population,NA,NA,AnnualMeanTemperature,21.66024055,Mean value of monthly temperature across the year
+Ca23,EA202,NA,Bako,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.66024055,Mean value of monthly temperature across the year
+Ca24,EA202,2000,Dime,Population size,Population,NA,NA,AnnualMeanTemperature,23.23806026,Mean value of monthly temperature across the year
+Ca25,EA202,3500,Shangama,Population size,Population,NA,NA,AnnualMeanTemperature,21.66024055,Mean value of monthly temperature across the year
+Ca26,EA202,7000,Ubamer,Population size,Population,NA,NA,AnnualMeanTemperature,21.66024055,Mean value of monthly temperature across the year
+Ca27,EA202,NA,Anfillo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.24194014,Mean value of monthly temperature across the year
+Ca28,EA202,5000,Basketo,Population size,Population,NA,NA,AnnualMeanTemperature,21.66024055,Mean value of monthly temperature across the year
+Ca29,EA202,NA,Yem,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.12837167,Mean value of monthly temperature across the year
+Ca3,EA202,1e+06,Tigrinya,Population size,Population,NA,NA,AnnualMeanTemperature,22.24217911,Mean value of monthly temperature across the year
+Ca30,EA202,NA,Kafa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.33477998,Mean value of monthly temperature across the year
+Ca31,EA202,20000,Beta Israel,Population size,Population,NA,NA,AnnualMeanTemperature,20.19374093,Mean value of monthly temperature across the year
+Ca32,EA202,9500,Nara,Population size,Population,NA,NA,AnnualMeanTemperature,24.96757397,Mean value of monthly temperature across the year
+Ca33,EA202,17000,Kunama,Population size,Population,NA,NA,AnnualMeanTemperature,25.41982196,Mean value of monthly temperature across the year
+Ca34,EA202,13000,Ababda,Population size,Population,NA,NA,AnnualMeanTemperature,24.9442543,Mean value of monthly temperature across the year
+Ca35,EA202,40000,Amarar,Population size,Population,NA,NA,AnnualMeanTemperature,26.08697885,Mean value of monthly temperature across the year
+Ca36,EA202,90000,Beni-Amer,Population size,Population,NA,NA,AnnualMeanTemperature,26.12025352,Mean value of monthly temperature across the year
+Ca37,EA202,NA,Blin,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.32839965,Mean value of monthly temperature across the year
+Ca38,EA202,25000,Tigre,Population size,Population,NA,NA,AnnualMeanTemperature,26.50169906,Mean value of monthly temperature across the year
+Ca39,EA202,3e+05,Jimma,Population size,Population,NA,NA,AnnualMeanTemperature,15.99929593,Mean value of monthly temperature across the year
+Ca4,EA202,1e+05,Iraqw,Population size,Population,NA,NA,AnnualMeanTemperature,19.04991862,Mean value of monthly temperature across the year
+Ca40,EA202,NA,Baditu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.26233973,Mean value of monthly temperature across the year
+Ca41,EA202,NA,Dorse,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.26233973,Mean value of monthly temperature across the year
+Ca42,EA202,15000,Shako,Population size,Population,NA,NA,AnnualMeanTemperature,20.33477998,Mean value of monthly temperature across the year
+Ca43,EA202,70000,Hadendowa,Population size,Population,NA,NA,AnnualMeanTemperature,26.85988932,Mean value of monthly temperature across the year
+Ca5,EA202,15000,Bisharin,Population size,Population,NA,NA,AnnualMeanTemperature,25.73491748,Mean value of monthly temperature across the year
+Ca6,EA202,110000,Afar,Population size,Population,NA,NA,AnnualMeanTemperature,24.66467787,Mean value of monthly temperature across the year
+Ca7,EA202,22000,Amhara,Population size,Population,NA,NA,AnnualMeanTemperature,19.4818178,Mean value of monthly temperature across the year
+Ca8,EA202,350000,Gurage,Population size,Population,NA,NA,AnnualMeanTemperature,15.12837167,Mean value of monthly temperature across the year
+Ca9,EA202,17500,Goroa,Population size,Population,NA,NA,AnnualMeanTemperature,18.43543188,Mean value of monthly temperature across the year
+Cb1,EA202,NA,Maguzawa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.28502416,Mean value of monthly temperature across the year
+Cb10,EA202,37000,Karekare,Population size,Population,NA,NA,AnnualMeanTemperature,25.56871731,Mean value of monthly temperature across the year
+Cb11,EA202,NA,Midobi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.24954778,Mean value of monthly temperature across the year
+Cb12,EA202,NA,Gimma,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.31662691,Mean value of monthly temperature across the year
+Cb13,EA202,NA,Habbaniya,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.38538829,Mean value of monthly temperature across the year
+Cb14,EA202,NA,Hemat,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.24966583,Mean value of monthly temperature across the year
+Cb15,EA202,NA,Messiria Humr,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.54747012,Mean value of monthly temperature across the year
+Cb16,EA202,7e+05,Shuwa,Population size,Population,NA,NA,AnnualMeanTemperature,26.53285465,Mean value of monthly temperature across the year
+Cb17,EA202,NA,Fur,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.9432652,Mean value of monthly temperature across the year
+Cb18,EA202,30000,Kanembu,Population size,Population,NA,NA,AnnualMeanTemperature,26.12020592,Mean value of monthly temperature across the year
+Cb19,EA202,750000,Kanuri,Population size,Population,NA,NA,AnnualMeanTemperature,25.4740022,Mean value of monthly temperature across the year
+Cb2,EA202,660000,Wolof,Population size,Population,NA,NA,AnnualMeanTemperature,25.87547596,Mean value of monthly temperature across the year
+Cb20,EA202,250000,Zerma,Population size,Population,NA,NA,AnnualMeanTemperature,26.30768147,Mean value of monthly temperature across the year
+Cb21,EA202,NA,Djafun,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.52847949,Mean value of monthly temperature across the year
+Cb22,EA202,70000,Liptako,Population size,Population,NA,NA,AnnualMeanTemperature,26.696154,Mean value of monthly temperature across the year
+Cb23,EA202,275000,Tukulor,Population size,Population,NA,NA,AnnualMeanTemperature,28.15650771,Mean value of monthly temperature across the year
+Cb24,EA202,NA,Wodaabe Fulani,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.44664026,Mean value of monthly temperature across the year
+Cb25,EA202,50000,Tazarawa Hausa,Population size,Population,NA,NA,AnnualMeanTemperature,24.44482306,Mean value of monthly temperature across the year
+Cb26,EA202,260000,Zazzagawa Hausa,Population size,Population,NA,NA,AnnualMeanTemperature,23.03385303,Mean value of monthly temperature across the year
+Cb27,EA202,11000,Bachama,Population size,Population,NA,NA,AnnualMeanTemperature,24.21019156,Mean value of monthly temperature across the year
+Cb28,EA202,8000,Dera,Population size,Population,NA,NA,AnnualMeanTemperature,24.21019156,Mean value of monthly temperature across the year
+Cb29,EA202,21000,Ngizim,Population size,Population,NA,NA,AnnualMeanTemperature,25.28502416,Mean value of monthly temperature across the year
+Cb3,EA202,4e+05,Songhai,Population size,Population,NA,NA,AnnualMeanTemperature,27.32281487,Mean value of monthly temperature across the year
+Cb4,EA202,NA,Hasania,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.2194278,Mean value of monthly temperature across the year
+Cb5,EA202,16000,Buduma,Population size,Population,NA,NA,AnnualMeanTemperature,26.53285465,Mean value of monthly temperature across the year
+Cb6,EA202,38000,Tera,Population size,Population,NA,NA,AnnualMeanTemperature,24.28622278,Mean value of monthly temperature across the year
+Cb7,EA202,33000,Bolewa,Population size,Population,NA,NA,AnnualMeanTemperature,23.93328629,Mean value of monthly temperature across the year
+Cb8,EA202,450000,Bororo Fulani,Population size,Population,NA,NA,AnnualMeanTemperature,26.02729604,Mean value of monthly temperature across the year
+Cb9,EA202,1e+06,Hausa Kanawa,Population size,Population,NA,NA,AnnualMeanTemperature,24.37438448,Mean value of monthly temperature across the year
+Cc1,EA202,35000,Regeibat,Population size,Population,NA,NA,AnnualMeanTemperature,25.6405225,Mean value of monthly temperature across the year
+Cc10,EA202,28000,Asben,Population size,Population,NA,NA,AnnualMeanTemperature,24.72755085,Mean value of monthly temperature across the year
+Cc11,EA202,2000,Azjer,Population size,Population,NA,NA,AnnualMeanTemperature,19.53866136,Mean value of monthly temperature across the year
+Cc12,EA202,4200,Ifora,Population size,Population,NA,NA,AnnualMeanTemperature,25.11113779,Mean value of monthly temperature across the year
+Cc13,EA202,11600,Udalan Tuareg,Population size,Population,NA,NA,AnnualMeanTemperature,27.14712772,Mean value of monthly temperature across the year
+Cc14,EA202,20000,Daza,Population size,Population,NA,NA,AnnualMeanTemperature,25.71622716,Mean value of monthly temperature across the year
+Cc15,EA202,120000,Drawa,Population size,Population,NA,NA,AnnualMeanTemperature,16.6632329,Mean value of monthly temperature across the year
+Cc16,EA202,20000,Chaambra,Population size,Population,NA,NA,AnnualMeanTemperature,18.3427943,Mean value of monthly temperature across the year
+Cc17,EA202,6000,Delim,Population size,Population,NA,NA,AnnualMeanTemperature,24.98811375,Mean value of monthly temperature across the year
+Cc18,EA202,NA,Kunta,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.09160733,Mean value of monthly temperature across the year
+Cc19,EA202,75000,Trarza,Population size,Population,NA,NA,AnnualMeanTemperature,26.89224499,Mean value of monthly temperature across the year
+Cc2,EA202,10000,Teda,Population size,Population,NA,NA,AnnualMeanTemperature,21.23998367,Mean value of monthly temperature across the year
+Cc20,EA202,NA,Zenaga,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.79813116,Mean value of monthly temperature across the year
+Cc3,EA202,3800,Siwans,Population size,Population,NA,NA,AnnualMeanTemperature,19.86883557,Mean value of monthly temperature across the year
+Cc4,EA202,32000,Mzab,Population size,Population,NA,NA,AnnualMeanTemperature,18.12763079,Mean value of monthly temperature across the year
+Cc5,EA202,10000,Kel Antessar,Population size,Population,NA,NA,AnnualMeanTemperature,26.7418608,Mean value of monthly temperature across the year
+Cc6,EA202,NA,Kababish,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.17163608,Mean value of monthly temperature across the year
+Cc7,EA202,15000,Barabish,Population size,Population,NA,NA,AnnualMeanTemperature,25.75874432,Mean value of monthly temperature across the year
+Cc8,EA202,7000,Aulliminden,Population size,Population,NA,NA,AnnualMeanTemperature,24.86054144,Mean value of monthly temperature across the year
+Cc9,EA202,NA,Tuareg Ahaggar,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.74978962,Mean value of monthly temperature across the year
+Cd1,EA202,NA,Barabra,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.53861042,Mean value of monthly temperature across the year
+Cd10,EA202,17000,Zekara,Population size,Population,NA,NA,AnnualMeanTemperature,16.81119186,Mean value of monthly temperature across the year
+Cd11,EA202,NA,Guanche,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.09257444,Mean value of monthly temperature across the year
+Cd12,EA202,NA,Algerians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.07974748,Mean value of monthly temperature across the year
+Cd13,EA202,1e+05,Hamama,Population size,Population,NA,NA,AnnualMeanTemperature,20.33814992,Mean value of monthly temperature across the year
+Cd14,EA202,1e+06,Hamyan,Population size,Population,NA,NA,AnnualMeanTemperature,15.64128367,Mean value of monthly temperature across the year
+Cd15,EA202,5e+05,Jebala,Population size,Population,NA,NA,AnnualMeanTemperature,19.58413567,Mean value of monthly temperature across the year
+Cd16,EA202,1200000,Moroccans,Population size,Population,NA,NA,AnnualMeanTemperature,19.56771895,Mean value of monthly temperature across the year
+Cd17,EA202,NA,Nail,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.93290657,Mean value of monthly temperature across the year
+Cd18,EA202,38000,Saadi,Population size,Population,NA,NA,AnnualMeanTemperature,20.25993715,Mean value of monthly temperature across the year
+Cd19,EA202,1e+06,Sahel,Population size,Population,NA,NA,AnnualMeanTemperature,19.11040631,Mean value of monthly temperature across the year
+Cd2,EA202,2.3e+07,Egyptians,Population size,Population,NA,NA,AnnualMeanTemperature,23.64067076,Mean value of monthly temperature across the year
+Cd20,EA202,150000,Sanusi,Population size,Population,NA,NA,AnnualMeanTemperature,19.64565774,Mean value of monthly temperature across the year
+Cd21,EA202,7e+06,Tunisians,Population size,Population,NA,NA,AnnualMeanTemperature,18.85471955,Mean value of monthly temperature across the year
+Cd3,EA202,4e+05,Riffians,Population size,Population,NA,NA,AnnualMeanTemperature,19.13586523,Mean value of monthly temperature across the year
+Cd4,EA202,1e+06,Kabyle,Population size,Population,NA,NA,AnnualMeanTemperature,17.15811491,Mean value of monthly temperature across the year
+Cd5,EA202,6e+05,Shluh,Population size,Population,NA,NA,AnnualMeanTemperature,21.07510635,Mean value of monthly temperature across the year
+Cd6,EA202,2e+06,Ancient Egyptians,Population size,Population,NA,NA,AnnualMeanTemperature,21.03471942,Mean value of monthly temperature across the year
+Cd7,EA202,450000,Beraber,Population size,Population,NA,NA,AnnualMeanTemperature,19.18086334,Mean value of monthly temperature across the year
+Cd8,EA202,126000,Shawiya,Population size,Population,NA,NA,AnnualMeanTemperature,17.29627897,Mean value of monthly temperature across the year
+Cd9,EA202,NA,Tekna,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.72086688,Mean value of monthly temperature across the year
+Ce1,EA202,NA,Gheg,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.8407087,Mean value of monthly temperature across the year
+Ce2,EA202,NA,Portuguese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.52487191,Mean value of monthly temperature across the year
+Ce3,EA202,NA,Ancient Romans,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.13704381,Mean value of monthly temperature across the year
+Ce4,EA202,NA,French Basques,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.42036495,Mean value of monthly temperature across the year
+Ce5,EA202,NA,Neapolitans,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.12005315,Mean value of monthly temperature across the year
+Ce6,EA202,NA,Spaniards,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.12717206,Mean value of monthly temperature across the year
+Ce7,EA202,NA,Greeks,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.57060113,Mean value of monthly temperature across the year
+Ce8,EA202,NA,Spanish Basques,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.77188418,Mean value of monthly temperature across the year
+Cf1,EA202,NA,New Englanders,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,9.277993324,Mean value of monthly temperature across the year
+Cf2,EA202,NA,Boers,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.3616868,Mean value of monthly temperature across the year
+Cf3,EA202,188,Tristan da Cunha,Population size,Population,NA,NA,AnnualMeanTemperature,15.40435263,Mean value of monthly temperature across the year
+Cf4,EA202,2700,Brazilians,Population size,Population,NA,NA,AnnualMeanTemperature,19.70871739,Mean value of monthly temperature across the year
+Cf5,EA202,NA,French Canadians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,4.050936209,Mean value of monthly temperature across the year
+Cg1,EA202,NA,Dutch,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.01561495,Mean value of monthly temperature across the year
+Cg2,EA202,50000,Icelanders,Population size,Population,NA,NA,AnnualMeanTemperature,0.899555602,Mean value of monthly temperature across the year
+Cg3,EA202,2963000,Irish,Population size,Population,NA,NA,AnnualMeanTemperature,10.72911193,Mean value of monthly temperature across the year
+Cg4,EA202,200,Sami,Population size,Population,NA,NA,AnnualMeanTemperature,-2.461088449,Mean value of monthly temperature across the year
+Cg5,EA202,NA,Walloons,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,10.62181874,Mean value of monthly temperature across the year
+Ch1,EA202,2200,Serbs,Population size,Population,NA,NA,AnnualMeanTemperature,11.24213075,Mean value of monthly temperature across the year
+Ch10,EA202,1.6e+07,Romanians,Population size,Population,NA,NA,AnnualMeanTemperature,12.43414875,Mean value of monthly temperature across the year
+Ch11,EA202,NA,Russians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.640697477,Mean value of monthly temperature across the year
+Ch2,EA202,60000,Hutsuls,Population size,Population,NA,NA,AnnualMeanTemperature,9.534329931,Mean value of monthly temperature across the year
+Ch3,EA202,8800000,Czechs,Population size,Population,NA,NA,AnnualMeanTemperature,9.142585932,Mean value of monthly temperature across the year
+Ch4,EA202,4e+05,Mari,Population size,Population,NA,NA,AnnualMeanTemperature,8.56766033,Mean value of monthly temperature across the year
+Ch5,EA202,1700,Bulgarians,Population size,Population,NA,NA,AnnualMeanTemperature,10.86370514,Mean value of monthly temperature across the year
+Ch6,EA202,NA,Byelorussians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.608240873,Mean value of monthly temperature across the year
+Ch7,EA202,NA,Ukrainians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.23980106,Mean value of monthly temperature across the year
+Ch8,EA202,9400000,Magyar,Population size,Population,NA,NA,AnnualMeanTemperature,12.61471436,Mean value of monthly temperature across the year
+Ch9,EA202,217000,Lithuanians,Population size,Population,NA,NA,AnnualMeanTemperature,8.337742868,Mean value of monthly temperature across the year
+Ci1,EA202,134000,Kalmyk,Population size,Population,NA,NA,AnnualMeanTemperature,13.52243921,Mean value of monthly temperature across the year
+Ci10,EA202,NA,Armenians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.470899213,Mean value of monthly temperature across the year
+Ci11,EA202,3e+07,Kurd,Population size,Population,NA,NA,AnnualMeanTemperature,22.59641597,Mean value of monthly temperature across the year
+Ci12,EA202,NA,Abkhaz,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,14.41244755,Mean value of monthly temperature across the year
+Ci2,EA202,3500,Khevsur,Population size,Population,NA,NA,AnnualMeanTemperature,8.089389291,Mean value of monthly temperature across the year
+Ci3,EA202,135000,Kumyk,Population size,Population,NA,NA,AnnualMeanTemperature,11.34994826,Mean value of monthly temperature across the year
+Ci4,EA202,250000,Cherkess,Population size,Population,NA,NA,AnnualMeanTemperature,10.69751372,Mean value of monthly temperature across the year
+Ci5,EA202,NA,Turks,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.03070435,Mean value of monthly temperature across the year
+Ci6,EA202,350000,Ossetians,Population size,Population,NA,NA,AnnualMeanTemperature,8.114494689,Mean value of monthly temperature across the year
+Ci7,EA202,4e+05,Chechen,Population size,Population,NA,NA,AnnualMeanTemperature,8.56766033,Mean value of monthly temperature across the year
+Ci8,EA202,1600000,Georgians,Population size,Population,NA,NA,AnnualMeanTemperature,7.353127593,Mean value of monthly temperature across the year
+Ci9,EA202,23000,Svan,Population size,Population,NA,NA,AnnualMeanTemperature,8.334607128,Mean value of monthly temperature across the year
+Cj1,EA202,NA,Syrians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.56034582,Mean value of monthly temperature across the year
+Cj10,EA202,4e+05,Madan,Population size,Population,NA,NA,AnnualMeanTemperature,25.0032706,Mean value of monthly temperature across the year
+Cj2,EA202,35000,Rwala,Population size,Population,NA,NA,AnnualMeanTemperature,17.79475474,Mean value of monthly temperature across the year
+Cj3,EA202,NA,Hebrews,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.02685156,Mean value of monthly temperature across the year
+Cj4,EA202,NA,Babylonians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.95999531,Mean value of monthly temperature across the year
+Cj5,EA202,NA,Mutair,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.72624194,Mean value of monthly temperature across the year
+Cj6,EA202,1440000,Jordanians,Population size,Population,NA,NA,AnnualMeanTemperature,19.14545357,Mean value of monthly temperature across the year
+Cj7,EA202,1575000,Lebanese,Population size,Population,NA,NA,AnnualMeanTemperature,18.72723976,Mean value of monthly temperature across the year
+Cj8,EA202,600,Druze,Population size,Population,NA,NA,AnnualMeanTemperature,19.72022917,Mean value of monthly temperature across the year
+Cj9,EA202,4e+06,Yemeni,Population size,Population,NA,NA,AnnualMeanTemperature,21.3441589,Mean value of monthly temperature across the year
+Ea1,EA202,9500000,Sindhi,Population size,Population,NA,NA,AnnualMeanTemperature,25.27915525,Mean value of monthly temperature across the year
+Ea10,EA202,60000,Marri,Population size,Population,NA,NA,AnnualMeanTemperature,20.20888729,Mean value of monthly temperature across the year
+Ea11,EA202,4500000,Ghilzai,Population size,Population,NA,NA,AnnualMeanTemperature,8.065355469,Mean value of monthly temperature across the year
+Ea12,EA202,4e+05,Qashqui,Population size,Population,NA,NA,AnnualMeanTemperature,18.86018675,Mean value of monthly temperature across the year
+Ea13,EA202,300,Punjabi,Population size,Population,NA,NA,AnnualMeanTemperature,25.55481334,Mean value of monthly temperature across the year
+Ea2,EA202,450000,Yusufzai,Population size,Population,NA,NA,AnnualMeanTemperature,8.869929061,Mean value of monthly temperature across the year
+Ea3,EA202,5e+05,Hazara,Population size,Population,NA,NA,AnnualMeanTemperature,4.254842548,Mean value of monthly temperature across the year
+Ea4,EA202,15000,Kohistani,Population size,Population,NA,NA,AnnualMeanTemperature,8.222065944,Mean value of monthly temperature across the year
+Ea5,EA202,60000,Nuristani,Population size,Population,NA,NA,AnnualMeanTemperature,3.926299206,Mean value of monthly temperature across the year
+Ea6,EA202,NA,Basseri,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.22173608,Mean value of monthly temperature across the year
+Ea7,EA202,3000,Moghol,Population size,Population,NA,NA,AnnualMeanTemperature,14.2761077,Mean value of monthly temperature across the year
+Ea8,EA202,NA,Bakhtiari,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.90415189,Mean value of monthly temperature across the year
+Ea9,EA202,1e+07,Iranians,Population size,Population,NA,NA,AnnualMeanTemperature,14.91461358,Mean value of monthly temperature across the year
+Eb1,EA202,NA,Kazakh,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.610945212,Mean value of monthly temperature across the year
+Eb2,EA202,55000,Tu,Population size,Population,NA,NA,AnnualMeanTemperature,-0.156773146,Mean value of monthly temperature across the year
+Eb3,EA202,NA,Khalka,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-2.986826334,Mean value of monthly temperature across the year
+Eb4,EA202,NA,Dagur,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,0.31815044,Mean value of monthly temperature across the year
+Eb5,EA202,8e+05,Turkmen,Population size,Population,NA,NA,AnnualMeanTemperature,17.58663315,Mean value of monthly temperature across the year
+Eb6,EA202,3e+05,Buryat,Population size,Population,NA,NA,AnnualMeanTemperature,-1.361441369,Mean value of monthly temperature across the year
+Eb7,EA202,2300,Chahar,Population size,Population,NA,NA,AnnualMeanTemperature,2.802726214,Mean value of monthly temperature across the year
+Eb8,EA202,16750,Uzbek,Population size,Population,NA,NA,AnnualMeanTemperature,13.98627587,Mean value of monthly temperature across the year
+Ec1,EA202,NA,Nivkh,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-3.29322576,Mean value of monthly temperature across the year
+Ec10,EA202,17000,Ob Ostyak,Population size,Population,NA,NA,AnnualMeanTemperature,-3.543457333,Mean value of monthly temperature across the year
+Ec11,EA202,6000,Selkup,Population size,Population,NA,NA,AnnualMeanTemperature,-1.619591672,Mean value of monthly temperature across the year
+Ec2,EA202,245000,Yakut,Population size,Population,NA,NA,AnnualMeanTemperature,-12.31637017,Mean value of monthly temperature across the year
+Ec3,EA202,9000,Chukchi,Population size,Population,NA,NA,AnnualMeanTemperature,-12.53404682,Mean value of monthly temperature across the year
+Ec4,EA202,NA,Yurak-Samoyeds,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-9.23623532,Mean value of monthly temperature across the year
+Ec5,EA202,7500,Koryak,Population size,Population,NA,NA,AnnualMeanTemperature,-9.890587823,Mean value of monthly temperature across the year
+Ec6,EA202,NA,Yukaghir,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-16.26371541,Mean value of monthly temperature across the year
+Ec7,EA202,15500,Ainu,Population size,Population,NA,NA,AnnualMeanTemperature,6.219941553,Mean value of monthly temperature across the year
+Ec8,EA202,1300,Ket,Population size,Population,NA,NA,AnnualMeanTemperature,-5.140265806,Mean value of monthly temperature across the year
+Ec9,EA202,100,Nanai,Population size,Population,NA,NA,AnnualMeanTemperature,1.926327279,Mean value of monthly temperature across the year
+Ed1,EA202,200,Koreans,Population size,Population,NA,NA,AnnualMeanTemperature,-2.458942668,Mean value of monthly temperature across the year
+Ed10,EA202,NA,Shantung,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.99241901,Mean value of monthly temperature across the year
+Ed13,EA202,21000,Ishigakians,Population size,Population,NA,NA,AnnualMeanTemperature,23.48587383,Mean value of monthly temperature across the year
+Ed14,EA202,NA,Man,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.51518688,Mean value of monthly temperature across the year
+Ed15a,EA202,52000,Miyakans,Population size,Population,NA,NA,AnnualMeanTemperature,23.60038067,Mean value of monthly temperature across the year
+Ed15b,EA202,NA,Chekiang,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,14.89429738,Mean value of monthly temperature across the year
+Ed16,EA202,NA,Cantonese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.61387649,Mean value of monthly temperature across the year
+Ed2,EA202,NA,Lolo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.384560681,Mean value of monthly temperature across the year
+Ed3,EA202,NA,Manchu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,3.622564061,Mean value of monthly temperature across the year
+Ed4,EA202,2500000,Miao,Population size,Population,NA,NA,AnnualMeanTemperature,14.24339188,Mean value of monthly temperature across the year
+Ed5,EA202,8e+07,Japanese,Population size,Population,NA,NA,AnnualMeanTemperature,14.0120186,Mean value of monthly temperature across the year
+Ed6,EA202,600,Min Chinese,Population size,Population,NA,NA,AnnualMeanTemperature,19.40835112,Mean value of monthly temperature across the year
+Ed7,EA202,517000,Okinawans,Population size,Population,NA,NA,AnnualMeanTemperature,22.90419936,Mean value of monthly temperature across the year
+Ed8,EA202,4e+05,Minchia,Population size,Population,NA,NA,AnnualMeanTemperature,10.86445526,Mean value of monthly temperature across the year
+Ed9,EA202,220000,Li,Population size,Population,NA,NA,AnnualMeanTemperature,24.26604575,Mean value of monthly temperature across the year
+Ee1,EA202,NA,Adi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.8581008,Mean value of monthly temperature across the year
+Ee2,EA202,NA,Burusho,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-10.53533643,Mean value of monthly temperature across the year
+Ee3,EA202,25800,Lepcha,Population size,Population,NA,NA,AnnualMeanTemperature,2.867253677,Mean value of monthly temperature across the year
+Ee4,EA202,4e+06,Central Tibetans,Population size,Population,NA,NA,AnnualMeanTemperature,-4.779496479,Mean value of monthly temperature across the year
+Ee5,EA202,NA,Shina,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.222065944,Mean value of monthly temperature across the year
+Ee6,EA202,NA,Sherpa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,5.839308934,Mean value of monthly temperature across the year
+Ee7,EA202,NA,Kachari,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,13.61411939,Mean value of monthly temperature across the year
+Ee8,EA202,3000,Magar,Population size,Population,NA,NA,AnnualMeanTemperature,18.40054173,Mean value of monthly temperature across the year
+Ef1,EA202,2500000,Santal,Population size,Population,NA,NA,AnnualMeanTemperature,24.76057981,Mean value of monthly temperature across the year
+Ef10,EA202,24200000,Bihari,Population size,Population,NA,NA,AnnualMeanTemperature,25.8110775,Mean value of monthly temperature across the year
+Ef11,EA202,1400,Uttar Pradesh,Population size,Population,NA,NA,AnnualMeanTemperature,26.00683427,Mean value of monthly temperature across the year
+Ef2,EA202,NA,Bengali,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.86097974,Mean value of monthly temperature across the year
+Ef3,EA202,NA,Indo-Iranian,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.46283465,Mean value of monthly temperature across the year
+Ef4,EA202,523000,Ho,Population size,Population,NA,NA,AnnualMeanTemperature,23.90893577,Mean value of monthly temperature across the year
+Ef5,EA202,1250000,Bhil,Population size,Population,NA,NA,AnnualMeanTemperature,24.69295107,Mean value of monthly temperature across the year
+Ef6,EA202,650000,Kurukh,Population size,Population,NA,NA,AnnualMeanTemperature,23.22339358,Mean value of monthly temperature across the year
+Ef7,EA202,5e+06,Pahari,Population size,Population,NA,NA,AnnualMeanTemperature,21.89171116,Mean value of monthly temperature across the year
+Ef8,EA202,1900000,Kashmiri,Population size,Population,NA,NA,AnnualMeanTemperature,8.590857697,Mean value of monthly temperature across the year
+Ef9,EA202,NA,Gujarati,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.67523275,Mean value of monthly temperature across the year
+Eg1,EA202,3820,Chenchu,Population size,Population,NA,NA,AnnualMeanTemperature,24.8681852,Mean value of monthly temperature across the year
+Eg10,EA202,2500,Telugu,Population size,Population,NA,NA,AnnualMeanTemperature,25.13449491,Mean value of monthly temperature across the year
+Eg11,EA202,75000,Koya,Population size,Population,NA,NA,AnnualMeanTemperature,23.19109633,Mean value of monthly temperature across the year
+Eg12,EA202,2500,Khond,Population size,Population,NA,NA,AnnualMeanTemperature,24.32529768,Mean value of monthly temperature across the year
+Eg13,EA202,219700,Muria Gond,Population size,Population,NA,NA,AnnualMeanTemperature,23.75378158,Mean value of monthly temperature across the year
+Eg14,EA202,NA,Reddi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.32529768,Mean value of monthly temperature across the year
+Eg2,EA202,3e+06,Tamil,Population size,Population,NA,NA,AnnualMeanTemperature,24.81924513,Mean value of monthly temperature across the year
+Eg3,EA202,11500,Madia,Population size,Population,NA,NA,AnnualMeanTemperature,24.4290047,Mean value of monthly temperature across the year
+Eg4,EA202,700,Toda,Population size,Population,NA,NA,AnnualMeanTemperature,22.5563277,Mean value of monthly temperature across the year
+Eg5,EA202,40000,Kodavas,Population size,Population,NA,NA,AnnualMeanTemperature,24.64129611,Mean value of monthly temperature across the year
+Eg6,EA202,NA,Kerala,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.98015986,Mean value of monthly temperature across the year
+Eg7,EA202,2e+06,Hill Bhuiya,Population size,Population,NA,NA,AnnualMeanTemperature,24.19306323,Mean value of monthly temperature across the year
+Eg8,EA202,94000,Kol,Population size,Population,NA,NA,AnnualMeanTemperature,23.90893577,Mean value of monthly temperature across the year
+Eg9,EA202,NA,Baiga,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.97554585,Mean value of monthly temperature across the year
+Eh1,EA202,NA,Andamanese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.21032495,Mean value of monthly temperature across the year
+Eh10,EA202,NA,Betsileo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.07518464,Mean value of monthly temperature across the year
+Eh2,EA202,1e+06,Merina,Population size,Population,NA,NA,AnnualMeanTemperature,22.06742271,Mean value of monthly temperature across the year
+Eh3,EA202,170000,Tanala,Population size,Population,NA,NA,AnnualMeanTemperature,21.07518464,Mean value of monthly temperature across the year
+Eh4,EA202,200,Vedda,Population size,Population,NA,NA,AnnualMeanTemperature,26.42472773,Mean value of monthly temperature across the year
+Eh5,EA202,NA,Nicobarese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.59509927,Mean value of monthly temperature across the year
+Eh6,EA202,2157000,Sinhalese,Population size,Population,NA,NA,AnnualMeanTemperature,26.60543915,Mean value of monthly temperature across the year
+Eh7,EA202,255000,Antandroy,Population size,Population,NA,NA,AnnualMeanTemperature,23.08511895,Mean value of monthly temperature across the year
+Eh8,EA202,275000,Sakalava,Population size,Population,NA,NA,AnnualMeanTemperature,25.64419991,Mean value of monthly temperature across the year
+Eh9,EA202,225000,Antaisaka,Population size,Population,NA,NA,AnnualMeanTemperature,20.8848302,Mean value of monthly temperature across the year
+Ei1,EA202,NA,Garo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.93143988,Mean value of monthly temperature across the year
+Ei10,EA202,125000,Chakma,Population size,Population,NA,NA,AnnualMeanTemperature,23.24392894,Mean value of monthly temperature across the year
+Ei11,EA202,500,Aimol,Population size,Population,NA,NA,AnnualMeanTemperature,20.00440457,Mean value of monthly temperature across the year
+Ei12,EA202,50000,Thado,Population size,Population,NA,NA,AnnualMeanTemperature,20.00440457,Mean value of monthly temperature across the year
+Ei13,EA202,NA,Angami,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.71128633,Mean value of monthly temperature across the year
+Ei14,EA202,30000,Ao,Population size,Population,NA,NA,AnnualMeanTemperature,16.82293095,Mean value of monthly temperature across the year
+Ei15,EA202,NA,Rengma,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.71128633,Mean value of monthly temperature across the year
+Ei16,EA202,NA,Sema,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.62567428,Mean value of monthly temperature across the year
+Ei17,EA202,90000,Karbi,Population size,Population,NA,NA,AnnualMeanTemperature,19.71128633,Mean value of monthly temperature across the year
+Ei18,EA202,1e+05,Palaung,Population size,Population,NA,NA,AnnualMeanTemperature,21.09082918,Mean value of monthly temperature across the year
+Ei19,EA202,350000,Chin,Population size,Population,NA,NA,AnnualMeanTemperature,22.55281633,Mean value of monthly temperature across the year
+Ei2,EA202,20000,Lhota,Population size,Population,NA,NA,AnnualMeanTemperature,16.82293095,Mean value of monthly temperature across the year
+Ei20,EA202,NA,Kuki,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.24392894,Mean value of monthly temperature across the year
+Ei3,EA202,NA,Burmese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.14945401,Mean value of monthly temperature across the year
+Ei4,EA202,NA,Maras,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.75579102,Mean value of monthly temperature across the year
+Ei5,EA202,3e+05,Kachin,Population size,Population,NA,NA,AnnualMeanTemperature,17.5694872,Mean value of monthly temperature across the year
+Ei6,EA202,300,Purum,Population size,Population,NA,NA,AnnualMeanTemperature,20.00440457,Mean value of monthly temperature across the year
+Ei7,EA202,2e+06,Karen,Population size,Population,NA,NA,AnnualMeanTemperature,25.20825485,Mean value of monthly temperature across the year
+Ei8,EA202,175000,Khasi,Population size,Population,NA,NA,AnnualMeanTemperature,21.93089978,Mean value of monthly temperature across the year
+Ei9,EA202,66000,Mogh,Population size,Population,NA,NA,AnnualMeanTemperature,25.96445286,Mean value of monthly temperature across the year
+Ej1,EA202,NA,Lamet,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.65253169,Mean value of monthly temperature across the year
+Ej10,EA202,NA,Rade,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.62085908,Mean value of monthly temperature across the year
+Ej11,EA202,40000,Cham,Population size,Population,NA,NA,AnnualMeanTemperature,25.96781797,Mean value of monthly temperature across the year
+Ej12,EA202,9000,Lawa,Population size,Population,NA,NA,AnnualMeanTemperature,23.68888693,Mean value of monthly temperature across the year
+Ej13,EA202,250000,Muong,Population size,Population,NA,NA,AnnualMeanTemperature,18.53328712,Mean value of monthly temperature across the year
+Ej14,EA202,12000,Senoi,Population size,Population,NA,NA,AnnualMeanTemperature,24.36833305,Mean value of monthly temperature across the year
+Ej15,EA202,NA,Ancient Khmer,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.0516016,Mean value of monthly temperature across the year
+Ej16,EA202,NA,Negri Sembilan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.47224874,Mean value of monthly temperature across the year
+Ej2,EA202,100,Mnong Gar,Population size,Population,NA,NA,AnnualMeanTemperature,23.73746495,Mean value of monthly temperature across the year
+Ej3,EA202,2000,Semang,Population size,Population,NA,NA,AnnualMeanTemperature,25.22073264,Mean value of monthly temperature across the year
+Ej4,EA202,2.2e+07,Annamese,Population size,Population,NA,NA,AnnualMeanTemperature,23.04781129,Mean value of monthly temperature across the year
+Ej5,EA202,3500000,Khmer,Population size,Population,NA,NA,AnnualMeanTemperature,24.91698418,Mean value of monthly temperature across the year
+Ej6,EA202,NA,Moken,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.93069464,Mean value of monthly temperature across the year
+Ej7,EA202,40000,Akha,Population size,Population,NA,NA,AnnualMeanTemperature,18.40430406,Mean value of monthly temperature across the year
+Ej8,EA202,1250000,Malays,Population size,Population,NA,NA,AnnualMeanTemperature,24.60709886,Mean value of monthly temperature across the year
+Ej9,EA202,1e+07,Thai,Population size,Population,NA,NA,AnnualMeanTemperature,24.14684495,Mean value of monthly temperature across the year
+Ia1,EA202,NA,Atayal,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.21236436,Mean value of monthly temperature across the year
+Ia10,EA202,18000,Bunun,Population size,Population,NA,NA,AnnualMeanTemperature,21.21236436,Mean value of monthly temperature across the year
+Ia11,EA202,5300,Puyuma,Population size,Population,NA,NA,AnnualMeanTemperature,22.78302163,Mean value of monthly temperature across the year
+Ia12,EA202,2225000,Sugbuanon,Population size,Population,NA,NA,AnnualMeanTemperature,26.45386601,Mean value of monthly temperature across the year
+Ia13,EA202,NA,Badjau Tawi-Tawi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.26234473,Mean value of monthly temperature across the year
+Ia14,EA202,1560,Tao,Population size,Population,NA,NA,AnnualMeanTemperature,24.2125581,Mean value of monthly temperature across the year
+Ia15,EA202,NA,Manobo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.77918648,Mean value of monthly temperature across the year
+Ia16,EA202,40000,Kalinga,Population size,Population,NA,NA,AnnualMeanTemperature,25.38043492,Mean value of monthly temperature across the year
+Ia17,EA202,NA,Bilaan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.57103262,Mean value of monthly temperature across the year
+Ia18,EA202,NA,Bisayan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.56049529,Mean value of monthly temperature across the year
+Ia2,EA202,10000,Sagada,Population size,Population,NA,NA,AnnualMeanTemperature,25.16045489,Mean value of monthly temperature across the year
+Ia3,EA202,130000,Ifugao,Population size,Population,NA,NA,AnnualMeanTemperature,25.16045489,Mean value of monthly temperature across the year
+Ia4,EA202,70000,Subanun,Population size,Population,NA,NA,AnnualMeanTemperature,26.37610187,Mean value of monthly temperature across the year
+Ia5,EA202,6000,Hanunoo,Population size,Population,NA,NA,AnnualMeanTemperature,26.77730995,Mean value of monthly temperature across the year
+Ia6,EA202,35000,Paiwan,Population size,Population,NA,NA,AnnualMeanTemperature,23.98693232,Mean value of monthly temperature across the year
+Ia7,EA202,7000,Tagbanua,Population size,Population,NA,NA,AnnualMeanTemperature,27.0752051,Mean value of monthly temperature across the year
+Ia8,EA202,40000,Bontok,Population size,Population,NA,NA,AnnualMeanTemperature,25.16045489,Mean value of monthly temperature across the year
+Ia9,EA202,55000,Ami,Population size,Population,NA,NA,AnnualMeanTemperature,22.78302163,Mean value of monthly temperature across the year
+Ib1,EA202,11500,Iban,Population size,Population,NA,NA,AnnualMeanTemperature,24.86346763,Mean value of monthly temperature across the year
+Ib2,EA202,24000,Javanese,Population size,Population,NA,NA,AnnualMeanTemperature,25.33792234,Mean value of monthly temperature across the year
+Ib3,EA202,1e+06,Balinese,Population size,Population,NA,NA,AnnualMeanTemperature,26.41940688,Mean value of monthly temperature across the year
+Ib4,EA202,1e+06,Toba Batak,Population size,Population,NA,NA,AnnualMeanTemperature,24.94828185,Mean value of monthly temperature across the year
+Ib5,EA202,145000,Kadazan-Dusun,Population size,Population,NA,NA,AnnualMeanTemperature,25.16709794,Mean value of monthly temperature across the year
+Ib6,EA202,2e+06,Minangkabau,Population size,Population,NA,NA,AnnualMeanTemperature,24.95685278,Mean value of monthly temperature across the year
+Ib7,EA202,10000,Mentaweians,Population size,Population,NA,NA,AnnualMeanTemperature,26.9461788,Mean value of monthly temperature across the year
+Ib8,EA202,7000,Anak Dalam,Population size,Population,NA,NA,AnnualMeanTemperature,23.93845417,Mean value of monthly temperature across the year
+Ib9,EA202,NA,Punan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.93992222,Mean value of monthly temperature across the year
+Ic1,EA202,4e+06,Macassarese,Population size,Population,NA,NA,AnnualMeanTemperature,27.15184344,Mean value of monthly temperature across the year
+Ic10,EA202,NA,Tobelorese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.04813989,Mean value of monthly temperature across the year
+Ic11,EA202,NA,Ambonese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.60477241,Mean value of monthly temperature across the year
+Ic12,EA202,135000,Sumbawanese,Population size,Population,NA,NA,AnnualMeanTemperature,26.79155635,Mean value of monthly temperature across the year
+Ic13,EA202,NA,Kodi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.99016439,Mean value of monthly temperature across the year
+Ic2,EA202,10000,Alorese,Population size,Population,NA,NA,AnnualMeanTemperature,26.78128071,Mean value of monthly temperature across the year
+Ic3,EA202,82000,Belu,Population size,Population,NA,NA,AnnualMeanTemperature,26.34576398,Mean value of monthly temperature across the year
+Ic4,EA202,53000,Rotinese,Population size,Population,NA,NA,AnnualMeanTemperature,26.871084,Mean value of monthly temperature across the year
+Ic5,EA202,25000,Toradja,Population size,Population,NA,NA,AnnualMeanTemperature,22.74314386,Mean value of monthly temperature across the year
+Ic6,EA202,25000,Tanimbarese,Population size,Population,NA,NA,AnnualMeanTemperature,26.69914907,Mean value of monthly temperature across the year
+Ic7,EA202,NA,Ili-Mandiri,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.94255394,Mean value of monthly temperature across the year
+Ic8,EA202,30000,Kei,Population size,Population,NA,NA,AnnualMeanTemperature,26.59523569,Mean value of monthly temperature across the year
+Ic9,EA202,1e+05,Sumbanese,Population size,Population,NA,NA,AnnualMeanTemperature,26.8330242,Mean value of monthly temperature across the year
+Id1,EA202,2000,Northern Aranda,Population size,Population,NA,NA,AnnualMeanTemperature,20.83198003,Mean value of monthly temperature across the year
+Id10,EA202,1400,Walbiri,Population size,Population,NA,NA,AnnualMeanTemperature,22.31397715,Mean value of monthly temperature across the year
+Id11,EA202,294,Gidjingali,Population size,Population,NA,NA,AnnualMeanTemperature,26.26475348,Mean value of monthly temperature across the year
+Id12,EA202,NA,Yir Yoront,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.43099299,Mean value of monthly temperature across the year
+Id13,EA202,300,Anindilyagwa,Population size,Population,NA,NA,AnnualMeanTemperature,26.31772881,Mean value of monthly temperature across the year
+Id2,EA202,2000,Yolngu, Dhuwal,Population size,Population,NA,NA,AnnualMeanTemperature,26.16256588,Mean value of monthly temperature across the year
+Id3,EA202,1000,Tiwi,Population size,Population,NA,NA,AnnualMeanTemperature,27.17184309,Mean value of monthly temperature across the year
+Id4,EA202,NA,Diyari,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.76912149,Mean value of monthly temperature across the year
+Id5,EA202,650,Kariyarra,Population size,Population,NA,NA,AnnualMeanTemperature,25.6077913,Mean value of monthly temperature across the year
+Id6,EA202,150,Wikmunkan,Population size,Population,NA,NA,AnnualMeanTemperature,26.48136682,Mean value of monthly temperature across the year
+Id7,EA202,176,Murriny Patha,Population size,Population,NA,NA,AnnualMeanTemperature,26.67437674,Mean value of monthly temperature across the year
+Id8,EA202,2000,Tasmanians (northwestern),Population size,Population,NA,NA,AnnualMeanTemperature,11.13391792,Mean value of monthly temperature across the year
+Id9,EA202,NA,Ngiyambaa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.07333772,Mean value of monthly temperature across the year
+Ie1,EA202,200,Mee,Population size,Population,NA,NA,AnnualMeanTemperature,23.97443365,Mean value of monthly temperature across the year
+Ie10,EA202,7000,Motu,Population size,Population,NA,NA,AnnualMeanTemperature,25.24328982,Mean value of monthly temperature across the year
+Ie11,EA202,NA,Kakoli,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.78360219,Mean value of monthly temperature across the year
+Ie12,EA202,300,Kwoma,Population size,Population,NA,NA,AnnualMeanTemperature,20.24847439,Mean value of monthly temperature across the year
+Ie13,EA202,NA,Kiwai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.13073362,Mean value of monthly temperature across the year
+Ie14,EA202,NA,Miriam,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.68793992,Mean value of monthly temperature across the year
+Ie15,EA202,NA,Abelam,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.26429204,Mean value of monthly temperature across the year
+Ie16,EA202,400,Kutubu,Population size,Population,NA,NA,AnnualMeanTemperature,21.47377421,Mean value of monthly temperature across the year
+Ie17,EA202,15000,Siane,Population size,Population,NA,NA,AnnualMeanTemperature,19.12116942,Mean value of monthly temperature across the year
+Ie18,EA202,NA,Kimam,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.76124256,Mean value of monthly temperature across the year
+Ie19,EA202,13000,Marind-Amin,Population size,Population,NA,NA,AnnualMeanTemperature,26.34424978,Mean value of monthly temperature across the year
+Ie2,EA202,5157,Wantoat,Population size,Population,NA,NA,AnnualMeanTemperature,19.89060032,Mean value of monthly temperature across the year
+Ie20,EA202,2000,Koita,Population size,Population,NA,NA,AnnualMeanTemperature,25.24328982,Mean value of monthly temperature across the year
+Ie21,EA202,NA,Mailu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.45957436,Mean value of monthly temperature across the year
+Ie22,EA202,3100,Mekeo,Population size,Population,NA,NA,AnnualMeanTemperature,25.24328982,Mean value of monthly temperature across the year
+Ie23,EA202,NA,Muju,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.30955013,Mean value of monthly temperature across the year
+Ie24,EA202,NA,Koiari,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.70409933,Mean value of monthly temperature across the year
+Ie25,EA202,9000,Mafulu,Population size,Population,NA,NA,AnnualMeanTemperature,23.98613873,Mean value of monthly temperature across the year
+Ie26,EA202,600,Ngarawapum,Population size,Population,NA,NA,AnnualMeanTemperature,19.46269556,Mean value of monthly temperature across the year
+Ie27,EA202,NA,Banaro,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.84328563,Mean value of monthly temperature across the year
+Ie28,EA202,1300,Busama,Population size,Population,NA,NA,AnnualMeanTemperature,21.22291932,Mean value of monthly temperature across the year
+Ie29,EA202,3500,Manam,Population size,Population,NA,NA,AnnualMeanTemperature,25.02548194,Mean value of monthly temperature across the year
+Ie3,EA202,NA,Arapesh,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.55812202,Mean value of monthly temperature across the year
+Ie30,EA202,8500,Mimika,Population size,Population,NA,NA,AnnualMeanTemperature,25.45189139,Mean value of monthly temperature across the year
+Ie31,EA202,10000,Fore,Population size,Population,NA,NA,AnnualMeanTemperature,19.12116942,Mean value of monthly temperature across the year
+Ie32,EA202,1500,Sio,Population size,Population,NA,NA,AnnualMeanTemperature,21.06952881,Mean value of monthly temperature across the year
+Ie33,EA202,NA,Soromadja,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.38957171,Mean value of monthly temperature across the year
+Ie34,EA202,480,Bgu,Population size,Population,NA,NA,AnnualMeanTemperature,24.57731469,Mean value of monthly temperature across the year
+Ie35,EA202,NA,Iatmul,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.92175863,Mean value of monthly temperature across the year
+Ie36,EA202,68,Samarokena,Population size,Population,NA,NA,AnnualMeanTemperature,22.51873555,Mean value of monthly temperature across the year
+Ie37,EA202,10000,Star Mountain,Population size,Population,NA,NA,AnnualMeanTemperature,20.35417559,Mean value of monthly temperature across the year
+Ie38,EA202,50000,Dani,Population size,Population,NA,NA,AnnualMeanTemperature,19.91134083,Mean value of monthly temperature across the year
+Ie39,EA202,NA,Elema,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.67037568,Mean value of monthly temperature across the year
+Ie4,EA202,1000,Wogeo,Population size,Population,NA,NA,AnnualMeanTemperature,26.74721067,Mean value of monthly temperature across the year
+Ie5,EA202,700,Keraki,Population size,Population,NA,NA,AnnualMeanTemperature,26.5888115,Mean value of monthly temperature across the year
+Ie6,EA202,6000,Waropen,Population size,Population,NA,NA,AnnualMeanTemperature,24.45402533,Mean value of monthly temperature across the year
+Ie7,EA202,90000,Enga,Population size,Population,NA,NA,AnnualMeanTemperature,19.78360219,Mean value of monthly temperature across the year
+Ie8,EA202,8000,Purari,Population size,Population,NA,NA,AnnualMeanTemperature,20.94750639,Mean value of monthly temperature across the year
+Ie9,EA202,9000,Orokaiva,Population size,Population,NA,NA,AnnualMeanTemperature,23.70409933,Mean value of monthly temperature across the year
+If1,EA202,6000,Palauans,Population size,Population,NA,NA,AnnualMeanTemperature,27.65871222,Mean value of monthly temperature across the year
+If10,EA202,900,Nomoians,Population size,Population,NA,NA,AnnualMeanTemperature,27.61067103,Mean value of monthly temperature across the year
+If11,EA202,500,Kosraeans,Population size,Population,NA,NA,AnnualMeanTemperature,27.59377927,Mean value of monthly temperature across the year
+If12,EA202,170,Bikinians,Population size,Population,NA,NA,AnnualMeanTemperature,27.18514689,Mean value of monthly temperature across the year
+If13,EA202,3300,Nauruans,Population size,Population,NA,NA,AnnualMeanTemperature,27.51575649,Mean value of monthly temperature across the year
+If14,EA202,2000,Makin,Population size,Population,NA,NA,AnnualMeanTemperature,27.40383911,Mean value of monthly temperature across the year
+If15,EA202,1100,Carolinians,Population size,Population,NA,NA,AnnualMeanTemperature,27.0606605,Mean value of monthly temperature across the year
+If16,EA202,200,Lamotrek,Population size,Population,NA,NA,AnnualMeanTemperature,27.6274319,Mean value of monthly temperature across the year
+If17,EA202,10000,Marshallese - Jaluit atoll,Population size,Population,NA,NA,AnnualMeanTemperature,27.54014796,Mean value of monthly temperature across the year
+If2,EA202,10000,Trukese,Population size,Population,NA,NA,AnnualMeanTemperature,27.59829754,Mean value of monthly temperature across the year
+If3,EA202,900,Majuro,Population size,Population,NA,NA,AnnualMeanTemperature,27.50085397,Mean value of monthly temperature across the year
+If4,EA202,250,Ifaluk,Population size,Population,NA,NA,AnnualMeanTemperature,27.64205004,Mean value of monthly temperature across the year
+If5,EA202,8000,Ponapeans,Population size,Population,NA,NA,AnnualMeanTemperature,27.59664906,Mean value of monthly temperature across the year
+If6,EA202,7000,Yapese,Population size,Population,NA,NA,AnnualMeanTemperature,27.54680586,Mean value of monthly temperature across the year
+If7,EA202,450,Gilbert Onotoa,Population size,Population,NA,NA,AnnualMeanTemperature,27.33502001,Mean value of monthly temperature across the year
+If8,EA202,3850,Chamorro,Population size,Population,NA,NA,AnnualMeanTemperature,27.0606605,Mean value of monthly temperature across the year
+If9,EA202,421,Ulithians,Population size,Population,NA,NA,AnnualMeanTemperature,27.51282604,Mean value of monthly temperature across the year
+Ig1,EA202,NA,Siuai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.2755619,Mean value of monthly temperature across the year
+Ig10,EA202,NA,Usiai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.71040856,Mean value of monthly temperature across the year
+Ig11,EA202,1500,Rossel Islanders,Population size,Population,NA,NA,AnnualMeanTemperature,26.85898263,Mean value of monthly temperature across the year
+Ig12,EA202,5700,Choiseulese,Population size,Population,NA,NA,AnnualMeanTemperature,27.36739099,Mean value of monthly temperature across the year
+Ig13,EA202,NA,Aua,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.53570245,Mean value of monthly temperature across the year
+Ig14,EA202,200,Dahuni,Population size,Population,NA,NA,AnnualMeanTemperature,25.53606853,Mean value of monthly temperature across the year
+Ig15,EA202,NA,Bakovi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.75143682,Mean value of monthly temperature across the year
+Ig16,EA202,NA,Bwaidoga,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.78000239,Mean value of monthly temperature across the year
+Ig17,EA202,NA,Kombe,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.14855916,Mean value of monthly temperature across the year
+Ig18,EA202,6000,Kwaio,Population size,Population,NA,NA,AnnualMeanTemperature,27.39122825,Mean value of monthly temperature across the year
+Ig19,EA202,1400,Molima,Population size,Population,NA,NA,AnnualMeanTemperature,26.15045067,Mean value of monthly temperature across the year
+Ig2,EA202,9000,Trobriands,Population size,Population,NA,NA,AnnualMeanTemperature,26.78779604,Mean value of monthly temperature across the year
+Ig20,EA202,NA,Kaoka,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.3903716,Mean value of monthly temperature across the year
+Ig21,EA202,1200,Tangu,Population size,Population,NA,NA,AnnualMeanTemperature,27.49503529,Mean value of monthly temperature across the year
+Ig3,EA202,NA,Kurtatchi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.22248566,Mean value of monthly temperature across the year
+Ig4,EA202,200,Lesu,Population size,Population,NA,NA,AnnualMeanTemperature,27.52340448,Mean value of monthly temperature across the year
+Ig5,EA202,NA,Dobuans,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.15045067,Mean value of monthly temperature across the year
+Ig6,EA202,1200,Ulawans,Population size,Population,NA,NA,AnnualMeanTemperature,27.33536157,Mean value of monthly temperature across the year
+Ig7,EA202,NA,Lakalai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.31794526,Mean value of monthly temperature across the year
+Ig8,EA202,800,Simboese,Population size,Population,NA,NA,AnnualMeanTemperature,27.45330641,Mean value of monthly temperature across the year
+Ig9,EA202,2000,Manus,Population size,Population,NA,NA,AnnualMeanTemperature,27.71040856,Mean value of monthly temperature across the year
+Ih1,EA202,NA,Mota,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.85713696,Mean value of monthly temperature across the year
+Ih10,EA202,NA,Tannese,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.62106067,Mean value of monthly temperature across the year
+Ih11,EA202,NA,Epi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.7644253,Mean value of monthly temperature across the year
+Ih12,EA202,NA,Eromangans,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.05172849,Mean value of monthly temperature across the year
+Ih13,EA202,NA,Ranon,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.92224785,Mean value of monthly temperature across the year
+Ih14,EA202,NA,Mbau Fijians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.37761696,Mean value of monthly temperature across the year
+Ih2,EA202,NA,Seniang,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.77610232,Mean value of monthly temperature across the year
+Ih3,EA202,NA,Bunlap,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.11133744,Mean value of monthly temperature across the year
+Ih4,EA202,NA,Lau,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.60874294,Mean value of monthly temperature across the year
+Ih5,EA202,NA,Ajie,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.75847423,Mean value of monthly temperature across the year
+Ih6,EA202,3000,Rotumans,Population size,Population,NA,NA,AnnualMeanTemperature,27.21851404,Mean value of monthly temperature across the year
+Ih7,EA202,NA,Lifu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.99519318,Mean value of monthly temperature across the year
+Ih8,EA202,NA,Vanua Levu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.37761696,Mean value of monthly temperature across the year
+Ih9,EA202,2500,Santa Cruz Islanders,Population size,Population,NA,NA,AnnualMeanTemperature,27.45163531,Mean value of monthly temperature across the year
+Ii1,EA202,45000,American Samoans,Population size,Population,NA,NA,AnnualMeanTemperature,26.9979571,Mean value of monthly temperature across the year
+Ii10,EA202,1000,Rennell Islanders,Population size,Population,NA,NA,AnnualMeanTemperature,27.14202854,Mean value of monthly temperature across the year
+Ii12,EA202,24000,Tongans,Population size,Population,NA,NA,AnnualMeanTemperature,24.75069207,Mean value of monthly temperature across the year
+Ii13,EA202,4400,Uveans,Population size,Population,NA,NA,AnnualMeanTemperature,27.15101231,Mean value of monthly temperature across the year
+Ii14,EA202,NA,Upolu Samoans,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.98850408,Mean value of monthly temperature across the year
+Ii2,EA202,1300,Tikopia,Population size,Population,NA,NA,AnnualMeanTemperature,27.23534904,Mean value of monthly temperature across the year
+Ii3,EA202,500,Pukapukans,Population size,Population,NA,NA,AnnualMeanTemperature,27.52265734,Mean value of monthly temperature across the year
+Ii4,EA202,NA,Ellice,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.69700265,Mean value of monthly temperature across the year
+Ii5,EA202,700,Ontong Java,Population size,Population,NA,NA,AnnualMeanTemperature,27.71855346,Mean value of monthly temperature across the year
+Ii6,EA202,400,Tokelau,Population size,Population,NA,NA,AnnualMeanTemperature,27.63272269,Mean value of monthly temperature across the year
+Ii7,EA202,482,Kapingamarangi,Population size,Population,NA,NA,AnnualMeanTemperature,27.66493449,Mean value of monthly temperature across the year
+Ii8,EA202,1500,Futunans,Population size,Population,NA,NA,AnnualMeanTemperature,26.87357163,Mean value of monthly temperature across the year
+Ii9,EA202,3720,Niueans,Population size,Population,NA,NA,AnnualMeanTemperature,24.96269324,Mean value of monthly temperature across the year
+Ij1,EA202,1250,Mangaians,Population size,Population,NA,NA,AnnualMeanTemperature,23.75169406,Mean value of monthly temperature across the year
+Ij10,EA202,400,Tongarevans,Population size,Population,NA,NA,AnnualMeanTemperature,27.46190929,Mean value of monthly temperature across the year
+Ij2,EA202,42100,Māori,Population size,Population,NA,NA,AnnualMeanTemperature,13.14841997,Mean value of monthly temperature across the year
+Ij3,EA202,1800,Marquesans,Population size,Population,NA,NA,AnnualMeanTemperature,26.81320394,Mean value of monthly temperature across the year
+Ij4,EA202,400,Manihikians,Population size,Population,NA,NA,AnnualMeanTemperature,27.49871142,Mean value of monthly temperature across the year
+Ij5,EA202,109,Raroians,Population size,Population,NA,NA,AnnualMeanTemperature,26.50087435,Mean value of monthly temperature across the year
+Ij6,EA202,NA,Hawaiians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.51511274,Mean value of monthly temperature across the year
+Ij7,EA202,3000,Mangarevans,Population size,Population,NA,NA,AnnualMeanTemperature,23.3914467,Mean value of monthly temperature across the year
+Ij8,EA202,NA,Tahitians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.81358677,Mean value of monthly temperature across the year
+Ij9,EA202,450,Easter Islanders,Population size,Population,NA,NA,AnnualMeanTemperature,21.0722476,Mean value of monthly temperature across the year
+Na1,EA202,152,Nabesna,Population size,Population,NA,NA,AnnualMeanTemperature,-6.710847761,Mean value of monthly temperature across the year
+Na10,EA202,200,Chugach,Population size,Population,NA,NA,AnnualMeanTemperature,-3.004725361,Mean value of monthly temperature across the year
+Na11,EA202,293,Sivokakmeit,Population size,Population,NA,NA,AnnualMeanTemperature,-5.241009663,Mean value of monthly temperature across the year
+Na12,EA202,200,Nunamiut,Population size,Population,NA,NA,AnnualMeanTemperature,-10.89454201,Mean value of monthly temperature across the year
+Na13,EA202,NA,Nunatsiarmiut,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-15.67879864,Mean value of monthly temperature across the year
+Na14,EA202,271,Inughuit (Northern Greenland),Population size,Population,NA,NA,AnnualMeanTemperature,-18.25140013,Mean value of monthly temperature across the year
+Na15,EA202,900,Tlicho,Population size,Population,NA,NA,AnnualMeanTemperature,-6.226437559,Mean value of monthly temperature across the year
+Na16,EA202,NA,Délįne,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-8.388713701,Mean value of monthly temperature across the year
+Na17,EA202,NA,DeneTha,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-2.662087555,Mean value of monthly temperature across the year
+Na19,EA202,300,Dakelh,Population size,Population,NA,NA,AnnualMeanTemperature,0.885064184,Mean value of monthly temperature across the year
+Na2,EA202,1000,Tareumiut,Population size,Population,NA,NA,AnnualMeanTemperature,-11.67232577,Mean value of monthly temperature across the year
+Na20,EA202,1274,Kutchin,Population size,Population,NA,NA,AnnualMeanTemperature,-7.523481987,Mean value of monthly temperature across the year
+Na21,EA202,500,Caribou Inuit,Population size,Population,NA,NA,AnnualMeanTemperature,-10.95805886,Mean value of monthly temperature across the year
+Na22,EA202,500,Iglulik Inuit,Population size,Population,NA,NA,AnnualMeanTemperature,-19.31389846,Mean value of monthly temperature across the year
+Na23,EA202,1100,Labrador Inuit,Population size,Population,NA,NA,AnnualMeanTemperature,-8.422747865,Mean value of monthly temperature across the year
+Na24,EA202,400,Tasiilaq,Population size,Population,NA,NA,AnnualMeanTemperature,-9.230238786,Mean value of monthly temperature across the year
+Na25,EA202,1600,Kalaallit (West Greenland),Population size,Population,NA,NA,AnnualMeanTemperature,-10.64720051,Mean value of monthly temperature across the year
+Na26,EA202,650,Dena'ina,Population size,Population,NA,NA,AnnualMeanTemperature,-7.169807959,Mean value of monthly temperature across the year
+Na27,EA202,50,Tahltan,Population size,Population,NA,NA,AnnualMeanTemperature,-3.674496641,Mean value of monthly temperature across the year
+Na28,EA202,160,Sekani,Population size,Population,NA,NA,AnnualMeanTemperature,-1.783701181,Mean value of monthly temperature across the year
+Na29,EA202,380,Beaver,Population size,Population,NA,NA,AnnualMeanTemperature,-0.587348288,Mean value of monthly temperature across the year
+Na3,EA202,800,Copper Inuit,Population size,Population,NA,NA,AnnualMeanTemperature,-14.92022168,Mean value of monthly temperature across the year
+Na30,EA202,NA,Dene,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-5.323807155,Mean value of monthly temperature across the year
+Na31,EA202,NA,Eastern Cree,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,1.04264468,Mean value of monthly temperature across the year
+Na32,EA202,700,Montagnais,Population size,Population,NA,NA,AnnualMeanTemperature,2.482701029,Mean value of monthly temperature across the year
+Na33,EA202,900,Northern Saulteaux,Population size,Population,NA,NA,AnnualMeanTemperature,2.477847848,Mean value of monthly temperature across the year
+Na34,EA202,342,Pekangekum,Population size,Population,NA,NA,AnnualMeanTemperature,1.13647026,Mean value of monthly temperature across the year
+Na35,EA202,820,Nipigon,Population size,Population,NA,NA,AnnualMeanTemperature,1.677713124,Mean value of monthly temperature across the year
+Na36,EA202,35000,Minnesota Ojibwa,Population size,Population,NA,NA,AnnualMeanTemperature,4.559661791,Mean value of monthly temperature across the year
+Na37,EA202,244,Rainy River Ojibwe,Population size,Population,NA,NA,AnnualMeanTemperature,3.316653316,Mean value of monthly temperature across the year
+Na38,EA202,76,Katikitegon,Population size,Population,NA,NA,AnnualMeanTemperature,6.476115123,Mean value of monthly temperature across the year
+Na39,EA202,150,Eastern Ojibwa,Population size,Population,NA,NA,AnnualMeanTemperature,4.913860467,Mean value of monthly temperature across the year
+Na4,EA202,300,Kaska,Population size,Population,NA,NA,AnnualMeanTemperature,-3.958219382,Mean value of monthly temperature across the year
+Na40,EA202,1500,Ottawa,Population size,Population,NA,NA,AnnualMeanTemperature,4.571979601,Mean value of monthly temperature across the year
+Na41,EA202,300,Mi'kmaq,Population size,Population,NA,NA,AnnualMeanTemperature,5.811557592,Mean value of monthly temperature across the year
+Na42,EA202,2000,Potawatomi,Population size,Population,NA,NA,AnnualMeanTemperature,7.315689177,Mean value of monthly temperature across the year
+Na43,EA202,260,Netsilik,Population size,Population,NA,NA,AnnualMeanTemperature,-16.8391754,Mean value of monthly temperature across the year
+Na44,EA202,400,Nunavimmiut,Population size,Population,NA,NA,AnnualMeanTemperature,-11.35028534,Mean value of monthly temperature across the year
+Na45,EA202,187,Mistissini Cree,Population size,Population,NA,NA,AnnualMeanTemperature,-2.473085779,Mean value of monthly temperature across the year
+Na5,EA202,NA,Naskapi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-6.740412538,Mean value of monthly temperature across the year
+Na6,EA202,NA,Nunivak,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-1.294979725,Mean value of monthly temperature across the year
+Na7,EA202,NA,Attawapiskat Cree,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-1.616188271,Mean value of monthly temperature across the year
+Na8,EA202,NA,Deg Xit'an,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-3.836284837,Mean value of monthly temperature across the year
+Na9,EA202,2200,Aleut,Population size,Population,NA,NA,AnnualMeanTemperature,3.756624331,Mean value of monthly temperature across the year
+Nb1,EA202,NA,Haida,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.191601552,Mean value of monthly temperature across the year
+Nb10,EA202,100,Alkatcho,Population size,Population,NA,NA,AnnualMeanTemperature,1.025036863,Mean value of monthly temperature across the year
+Nb11,EA202,6000,Nuu chah nulth,Population size,Population,NA,NA,AnnualMeanTemperature,8.906838643,Mean value of monthly temperature across the year
+Nb12,EA202,NA,Klahoose,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,2.369375671,Mean value of monthly temperature across the year
+Nb13,EA202,NA,Squamish,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,3.579724673,Mean value of monthly temperature across the year
+Nb14,EA202,NA,Comox,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,6.299149409,Mean value of monthly temperature across the year
+Nb15,EA202,NA,Lummi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.493608846,Mean value of monthly temperature across the year
+Nb16,EA202,485,Klallam,Population size,Population,NA,NA,AnnualMeanTemperature,8.960973809,Mean value of monthly temperature across the year
+Nb17,EA202,NA,Puyallup,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.723953152,Mean value of monthly temperature across the year
+Nb18,EA202,285,Quileute,Population size,Population,NA,NA,AnnualMeanTemperature,10.10288423,Mean value of monthly temperature across the year
+Nb19,EA202,100,Lower Chinook,Population size,Population,NA,NA,AnnualMeanTemperature,10.76707928,Mean value of monthly temperature across the year
+Nb2,EA202,NA,Twana,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.960973809,Mean value of monthly temperature across the year
+Nb20,EA202,NA,Tillamook,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.2257092,Mean value of monthly temperature across the year
+Nb21,EA202,NA,Coos,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.30610184,Mean value of monthly temperature across the year
+Nb22,EA202,6750,Tlingit,Population size,Population,NA,NA,AnnualMeanTemperature,-2.240602942,Mean value of monthly temperature across the year
+Nb23,EA202,330,Heiltsuk,Population size,Population,NA,NA,AnnualMeanTemperature,7.038801943,Mean value of monthly temperature across the year
+Nb24,EA202,654,Makah,Population size,Population,NA,NA,AnnualMeanTemperature,9.757693569,Mean value of monthly temperature across the year
+Nb25,EA202,200,Quinault,Population size,Population,NA,NA,AnnualMeanTemperature,10.26638277,Mean value of monthly temperature across the year
+Nb26,EA202,NA,Cowichan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,4.990292246,Mean value of monthly temperature across the year
+Nb27,EA202,1700,Stó:lō,Population size,Population,NA,NA,AnnualMeanTemperature,6.097633778,Mean value of monthly temperature across the year
+Nb28,EA202,NA,Alsea,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.37536575,Mean value of monthly temperature across the year
+Nb29,EA202,NA,Siuslaw,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.37536575,Mean value of monthly temperature across the year
+Nb3,EA202,1000,Kwakwaka'wakw,Population size,Population,NA,NA,AnnualMeanTemperature,7.396170232,Mean value of monthly temperature across the year
+Nb30,EA202,27,Takelma,Population size,Population,NA,NA,AnnualMeanTemperature,10.49979409,Mean value of monthly temperature across the year
+Nb31,EA202,NA,Tututni,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.66892207,Mean value of monthly temperature across the year
+Nb32,EA202,2000,Shasta,Population size,Population,NA,NA,AnnualMeanTemperature,9.850562702,Mean value of monthly temperature across the year
+Nb33,EA202,250,Chimariko,Population size,Population,NA,NA,AnnualMeanTemperature,11.34578144,Mean value of monthly temperature across the year
+Nb34,EA202,600,Karuk,Population size,Population,NA,NA,AnnualMeanTemperature,10.49979409,Mean value of monthly temperature across the year
+Nb35,EA202,640,Hupa,Population size,Population,NA,NA,AnnualMeanTemperature,11.34578144,Mean value of monthly temperature across the year
+Nb36,EA202,800,Wiyot,Population size,Population,NA,NA,AnnualMeanTemperature,12.8527965,Mean value of monthly temperature across the year
+Nb37,EA202,NA,Lassik,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.94194105,Mean value of monthly temperature across the year
+Nb38,EA202,NA,Mattole-Bear River,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.46333292,Mean value of monthly temperature across the year
+Nb39,EA202,NA,Sinkyone,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.8527965,Mean value of monthly temperature across the year
+Nb4,EA202,700,Yurok,Population size,Population,NA,NA,AnnualMeanTemperature,12.11936958,Mean value of monthly temperature across the year
+Nb5,EA202,NA,Eyak,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,-0.8033036,Mean value of monthly temperature across the year
+Nb6,EA202,NA,Tolowa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.66892207,Mean value of monthly temperature across the year
+Nb7,EA202,NA,Tsimshian,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,4.529848214,Mean value of monthly temperature across the year
+Nb8,EA202,400,Haisla,Population size,Population,NA,NA,AnnualMeanTemperature,3.984806691,Mean value of monthly temperature across the year
+Nb9,EA202,400,Nuxalk,Population size,Population,NA,NA,AnnualMeanTemperature,4.81130118,Mean value of monthly temperature across the year
+Nc1,EA202,300,Nomlaki,Population size,Population,NA,NA,AnnualMeanTemperature,14.90478876,Mean value of monthly temperature across the year
+Nc10,EA202,100,Achumawi,Population size,Population,NA,NA,AnnualMeanTemperature,8.262841551,Mean value of monthly temperature across the year
+Nc11,EA202,35,Yana,Population size,Population,NA,NA,AnnualMeanTemperature,9.850562702,Mean value of monthly temperature across the year
+Nc12,EA202,250,Maidu,Population size,Population,NA,NA,AnnualMeanTemperature,10.33059693,Mean value of monthly temperature across the year
+Nc13,EA202,NA,Nisenan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,13.14362747,Mean value of monthly temperature across the year
+Nc14,EA202,NA,Wintu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,9.850562702,Mean value of monthly temperature across the year
+Nc15,EA202,500,Coast Yuki,Population size,Population,NA,NA,AnnualMeanTemperature,13.31654243,Mean value of monthly temperature across the year
+Nc16,EA202,500,Huchnom,Population size,Population,NA,NA,AnnualMeanTemperature,14.39151431,Mean value of monthly temperature across the year
+Nc17,EA202,1000,Northern Pomo,Population size,Population,NA,NA,AnnualMeanTemperature,14.39151431,Mean value of monthly temperature across the year
+Nc18,EA202,1000,Eastern Pomo,Population size,Population,NA,NA,AnnualMeanTemperature,14.39151431,Mean value of monthly temperature across the year
+Nc19,EA202,1000,Southern Pomo,Population size,Population,NA,NA,AnnualMeanTemperature,14.39151431,Mean value of monthly temperature across the year
+Nc2,EA202,300,Tübalulabal,Population size,Population,NA,NA,AnnualMeanTemperature,7.741709313,Mean value of monthly temperature across the year
+Nc20,EA202,NA,Wappo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,14.47797614,Mean value of monthly temperature across the year
+Nc21,EA202,500,Lake Miwok,Population size,Population,NA,NA,AnnualMeanTemperature,13.99992466,Mean value of monthly temperature across the year
+Nc22,EA202,150,Patwin,Population size,Population,NA,NA,AnnualMeanTemperature,14.90478876,Mean value of monthly temperature across the year
+Nc23,EA202,500,Western Mono,Population size,Population,NA,NA,AnnualMeanTemperature,13.069292,Mean value of monthly temperature across the year
+Nc24,EA202,1100,Southern Valley Yokuts,Population size,Population,NA,NA,AnnualMeanTemperature,15.66332345,Mean value of monthly temperature across the year
+Nc25,EA202,8600,Wukchumni,Population size,Population,NA,NA,AnnualMeanTemperature,15.07863423,Mean value of monthly temperature across the year
+Nc26,EA202,2000,Salinan,Population size,Population,NA,NA,AnnualMeanTemperature,15.23319948,Mean value of monthly temperature across the year
+Nc27,EA202,NA,Kawaiisu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.58615235,Mean value of monthly temperature across the year
+Nc28,EA202,1800,Chumash,Population size,Population,NA,NA,AnnualMeanTemperature,16.72469761,Mean value of monthly temperature across the year
+Nc29,EA202,5000,Tongva,Population size,Population,NA,NA,AnnualMeanTemperature,17.60728392,Mean value of monthly temperature across the year
+Nc3,EA202,4000,Northern Foothill Yokuts,Population size,Population,NA,NA,AnnualMeanTemperature,15.66332345,Mean value of monthly temperature across the year
+Nc30,EA202,100,Serrano,Population size,Population,NA,NA,AnnualMeanTemperature,18.0308072,Mean value of monthly temperature across the year
+Nc31,EA202,750,Cahuilla (Desert),Population size,Population,NA,NA,AnnualMeanTemperature,19.72089511,Mean value of monthly temperature across the year
+Nc32,EA202,200,Cupeño,Population size,Population,NA,NA,AnnualMeanTemperature,18.02087342,Mean value of monthly temperature across the year
+Nc33,EA202,1300,Luiseño,Population size,Population,NA,NA,AnnualMeanTemperature,18.02087342,Mean value of monthly temperature across the year
+Nc34,EA202,36,Kiliwa,Population size,Population,NA,NA,AnnualMeanTemperature,20.43536157,Mean value of monthly temperature across the year
+Nc4,EA202,NA,Atsugewi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.262841551,Mean value of monthly temperature across the year
+Nc5,EA202,NA,Central Sierra Miwok,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.54967224,Mean value of monthly temperature across the year
+Nc6,EA202,700,Kumeyaay,Population size,Population,NA,NA,AnnualMeanTemperature,19.72093882,Mean value of monthly temperature across the year
+Nc7,EA202,2000,Yuki,Population size,Population,NA,NA,AnnualMeanTemperature,12.94194105,Mean value of monthly temperature across the year
+Nc8,EA202,1400,Klamath,Population size,Population,NA,NA,AnnualMeanTemperature,7.62662365,Mean value of monthly temperature across the year
+Nc9,EA202,300,Modoc,Population size,Population,NA,NA,AnnualMeanTemperature,8.586154936,Mean value of monthly temperature across the year
+Nd1,EA202,1200,Tenino,Population size,Population,NA,NA,AnnualMeanTemperature,8.221235852,Mean value of monthly temperature across the year
+Nd10,EA202,NA,Nlaka'pamux,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,3.078288186,Mean value of monthly temperature across the year
+Nd11,EA202,NA,Shuswap,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,1.899933104,Mean value of monthly temperature across the year
+Nd12,EA202,600,Bitterroot Salish,Population size,Population,NA,NA,AnnualMeanTemperature,2.228565476,Mean value of monthly temperature across the year
+Nd13,EA202,300,Kalispel,Population size,Population,NA,NA,AnnualMeanTemperature,3.721540491,Mean value of monthly temperature across the year
+Nd14,EA202,500,Coeur d’Alene,Population size,Population,NA,NA,AnnualMeanTemperature,6.090183509,Mean value of monthly temperature across the year
+Nd15,EA202,300,Sinkaitk,Population size,Population,NA,NA,AnnualMeanTemperature,3.859662927,Mean value of monthly temperature across the year
+Nd16,EA202,NA,Wenatchi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,6.053788464,Mean value of monthly temperature across the year
+Nd17,EA202,NA,Klikitat,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.24740598,Mean value of monthly temperature across the year
+Nd18,EA202,1000,Wishram,Population size,Population,NA,NA,AnnualMeanTemperature,8.795707226,Mean value of monthly temperature across the year
+Nd19,EA202,NA,Umatilla,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,9.333151829,Mean value of monthly temperature across the year
+Nd2,EA202,1000,Southern Ute,Population size,Population,NA,NA,AnnualMeanTemperature,8.417559508,Mean value of monthly temperature across the year
+Nd20,EA202,6000,Nez Perce,Population size,Population,NA,NA,AnnualMeanTemperature,2.587970522,Mean value of monthly temperature across the year
+Nd21,EA202,200,Tagotoka,Population size,Population,NA,NA,AnnualMeanTemperature,7.471021729,Mean value of monthly temperature across the year
+Nd22,EA202,NA,Wadadokado,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,6.622218054,Mean value of monthly temperature across the year
+Nd23,EA202,140,Atsakudokwa,Population size,Population,NA,NA,AnnualMeanTemperature,7.851568768,Mean value of monthly temperature across the year
+Nd24,EA202,150,Kidutokado,Population size,Population,NA,NA,AnnualMeanTemperature,7.10194214,Mean value of monthly temperature across the year
+Nd25,EA202,NA,Sawakudokwa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.388955761,Mean value of monthly temperature across the year
+Nd26,EA202,200,Wadatkuht,Population size,Population,NA,NA,AnnualMeanTemperature,7.909860152,Mean value of monthly temperature across the year
+Nd27,EA202,700,Kuyuidokado,Population size,Population,NA,NA,AnnualMeanTemperature,8.135032418,Mean value of monthly temperature across the year
+Nd28,EA202,800,Toedokado,Population size,Population,NA,NA,AnnualMeanTemperature,8.32207953,Mean value of monthly temperature across the year
+Nd29,EA202,125,Tunava (Deep Springs and Fish Lake),Population size,Population,NA,NA,AnnualMeanTemperature,11.37312871,Mean value of monthly temperature across the year
+Nd3,EA202,200,Havasupai,Population size,Population,NA,NA,AnnualMeanTemperature,11.22766888,Mean value of monthly temperature across the year
+Nd30,EA202,1000,Eastern Mono,Population size,Population,NA,NA,AnnualMeanTemperature,11.37312871,Mean value of monthly temperature across the year
+Nd31,EA202,NA,Koso,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,14.05247908,Mean value of monthly temperature across the year
+Nd32,EA202,100,Tümpisa Shoshone (Saline and Panamint),Population size,Population,NA,NA,AnnualMeanTemperature,13.55958568,Mean value of monthly temperature across the year
+Nd33,EA202,70,Beatty,Population size,Population,NA,NA,AnnualMeanTemperature,12.0435765,Mean value of monthly temperature across the year
+Nd34,EA202,NA,Lida Shoshoni,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,10.78357357,Mean value of monthly temperature across the year
+Nd35,EA202,530,Mahaguaduka,Population size,Population,NA,NA,AnnualMeanTemperature,7.617603482,Mean value of monthly temperature across the year
+Nd36,EA202,400,Wiyambituka,Population size,Population,NA,NA,AnnualMeanTemperature,7.617603482,Mean value of monthly temperature across the year
+Nd37,EA202,250,Railroad Valley Shoshoni,Population size,Population,NA,NA,AnnualMeanTemperature,7.410530425,Mean value of monthly temperature across the year
+Nd38,EA202,NA,Ely Shoshoni,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.38611004,Mean value of monthly temperature across the year
+Nd39,EA202,450,Spring Valley Shoshoni,Population size,Population,NA,NA,AnnualMeanTemperature,6.935439689,Mean value of monthly temperature across the year
+Nd4,EA202,660,Sanpoil,Population size,Population,NA,NA,AnnualMeanTemperature,5.685826495,Mean value of monthly temperature across the year
+Nd40,EA202,200,Tubaduka,Population size,Population,NA,NA,AnnualMeanTemperature,8.006074984,Mean value of monthly temperature across the year
+Nd41,EA202,1100,Wadaduka,Population size,Population,NA,NA,AnnualMeanTemperature,7.764593148,Mean value of monthly temperature across the year
+Nd42,EA202,600,Elko Shoshoni,Population size,Population,NA,NA,AnnualMeanTemperature,7.764593148,Mean value of monthly temperature across the year
+Nd43,EA202,800,White Knife Shoshoni,Population size,Population,NA,NA,AnnualMeanTemperature,8.554911122,Mean value of monthly temperature across the year
+Nd44,EA202,NA,Yahanduka,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.875601396,Mean value of monthly temperature across the year
+Nd45,EA202,1500,Bohogue,Population size,Population,NA,NA,AnnualMeanTemperature,5.599373064,Mean value of monthly temperature across the year
+Nd46,EA202,600,Agaiduka,Population size,Population,NA,NA,AnnualMeanTemperature,2.642343603,Mean value of monthly temperature across the year
+Nd47,EA202,500,Tukudika,Population size,Population,NA,NA,AnnualMeanTemperature,1.578531139,Mean value of monthly temperature across the year
+Nd48,EA202,NA,Gosiute,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.309515879,Mean value of monthly temperature across the year
+Nd49,EA202,NA,Antarianunts,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,10.45486988,Mean value of monthly temperature across the year
+Nd5,EA202,NA,Hukundika,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,6.968844612,Mean value of monthly temperature across the year
+Nd50,EA202,68,Panguitch,Population size,Population,NA,NA,AnnualMeanTemperature,8.821565351,Mean value of monthly temperature across the year
+Nd51,EA202,NA,Moapa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.64454281,Mean value of monthly temperature across the year
+Nd52,EA202,300,Shivwits,Population size,Population,NA,NA,AnnualMeanTemperature,13.55958568,Mean value of monthly temperature across the year
+Nd53,EA202,600,Southern Paiute (Kaibab),Population size,Population,NA,NA,AnnualMeanTemperature,13.43346058,Mean value of monthly temperature across the year
+Nd54,EA202,350,Chemehuevi,Population size,Population,NA,NA,AnnualMeanTemperature,17.75647067,Mean value of monthly temperature across the year
+Nd55,EA202,330,Southern Paiute (Las Vegas),Population size,Population,NA,NA,AnnualMeanTemperature,15.64454281,Mean value of monthly temperature across the year
+Nd56,EA202,NA,San Juan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,10.88647764,Mean value of monthly temperature across the year
+Nd57,EA202,134,Pahvant,Population size,Population,NA,NA,AnnualMeanTemperature,7.412572531,Mean value of monthly temperature across the year
+Nd58,EA202,NA,Uintah Ute,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.538287854,Mean value of monthly temperature across the year
+Nd59,EA202,NA,Moanunts,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.814352436,Mean value of monthly temperature across the year
+Nd6,EA202,1000,Washo,Population size,Population,NA,NA,AnnualMeanTemperature,10.2627256,Mean value of monthly temperature across the year
+Nd60,EA202,NA,Moache,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,5.515173316,Mean value of monthly temperature across the year
+Nd61,EA202,NA,Taviwatsiu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,4.408041155,Mean value of monthly temperature across the year
+Nd62,EA202,NA,Uncompahgre Ute,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,1.426843598,Mean value of monthly temperature across the year
+Nd63,EA202,600,Bannock,Population size,Population,NA,NA,AnnualMeanTemperature,5.599373064,Mean value of monthly temperature across the year
+Nd64,EA202,1600,Wind River Eastern Shoshone,Population size,Population,NA,NA,AnnualMeanTemperature,2.058302962,Mean value of monthly temperature across the year
+Nd65,EA202,1000,Hualapai,Population size,Population,NA,NA,AnnualMeanTemperature,15.17309659,Mean value of monthly temperature across the year
+Nd66,EA202,500,Yavapai,Population size,Population,NA,NA,AnnualMeanTemperature,12.76395177,Mean value of monthly temperature across the year
+Nd67,EA202,500,Tolkepaya,Population size,Population,NA,NA,AnnualMeanTemperature,19.80877345,Mean value of monthly temperature across the year
+Nd7,EA202,NA,Kutenai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,1.034683176,Mean value of monthly temperature across the year
+Nd8,EA202,600,Chilcotin,Population size,Population,NA,NA,AnnualMeanTemperature,1.570405763,Mean value of monthly temperature across the year
+Nd9,EA202,4000,Lillooet,Population size,Population,NA,NA,AnnualMeanTemperature,4.57977803,Mean value of monthly temperature across the year
+Ne1,EA202,2000,Gros Ventre,Population size,Population,NA,NA,AnnualMeanTemperature,5.905700534,Mean value of monthly temperature across the year
+Ne10,EA202,1650,Arikara,Population size,Population,NA,NA,AnnualMeanTemperature,7.691671632,Mean value of monthly temperature across the year
+Ne11,EA202,3000,Assiniboine,Population size,Population,NA,NA,AnnualMeanTemperature,6.698164647,Mean value of monthly temperature across the year
+Ne12,EA202,1600,Blackfoot,Population size,Population,NA,NA,AnnualMeanTemperature,4.568714475,Mean value of monthly temperature across the year
+Ne13,EA202,800,Kainai,Population size,Population,NA,NA,AnnualMeanTemperature,-0.288960179,Mean value of monthly temperature across the year
+Ne14,EA202,17000,Bungi,Population size,Population,NA,NA,AnnualMeanTemperature,3.681031807,Mean value of monthly temperature across the year
+Ne15,EA202,NA,Hidatsa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,6.819315653,Mean value of monthly temperature across the year
+Ne16,EA202,200,Karankawa,Population size,Population,NA,NA,AnnualMeanTemperature,20.73393801,Mean value of monthly temperature across the year
+Ne17,EA202,1165,Kiowa,Population size,Population,NA,NA,AnnualMeanTemperature,15.38113574,Mean value of monthly temperature across the year
+Ne18,EA202,2800,Piegan,Population size,Population,NA,NA,AnnualMeanTemperature,1.87093403,Mean value of monthly temperature across the year
+Ne19,EA202,12500,Plains Cree,Population size,Population,NA,NA,AnnualMeanTemperature,7.923836302,Mean value of monthly temperature across the year
+Ne2,EA202,200,Kiowa Apache,Population size,Population,NA,NA,AnnualMeanTemperature,15.38113574,Mean value of monthly temperature across the year
+Ne20,EA202,NA,Santee,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.923836302,Mean value of monthly temperature across the year
+Ne21,EA202,NA,Coahuilteco,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.15746538,Mean value of monthly temperature across the year
+Ne3,EA202,4700,Comanche,Population size,Population,NA,NA,AnnualMeanTemperature,16.62908925,Mean value of monthly temperature across the year
+Ne4,EA202,1800,Crow,Population size,Population,NA,NA,AnnualMeanTemperature,3.666578006,Mean value of monthly temperature across the year
+Ne5,EA202,4700,Cheyenne,Population size,Population,NA,NA,AnnualMeanTemperature,6.792525463,Mean value of monthly temperature across the year
+Ne6,EA202,300,Mandan,Population size,Population,NA,NA,AnnualMeanTemperature,6.819315653,Mean value of monthly temperature across the year
+Ne7,EA202,NA,Sarcee,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,1.897349458,Mean value of monthly temperature across the year
+Ne8,EA202,NA,Teton,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,8.070335358,Mean value of monthly temperature across the year
+Ne9,EA202,2300,Arapaho,Population size,Population,NA,NA,AnnualMeanTemperature,8.966936451,Mean value of monthly temperature across the year
+Nf10,EA202,NA,Iowa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.76024084,Mean value of monthly temperature across the year
+Nf11,EA202,NA,Otoe,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,12.74329529,Mean value of monthly temperature across the year
+Nf12,EA202,825,Ponca,Population size,Population,NA,NA,AnnualMeanTemperature,9.932951482,Mean value of monthly temperature across the year
+Nf13,EA202,1100,Shawnee,Population size,Population,NA,NA,AnnualMeanTemperature,13.18899255,Mean value of monthly temperature across the year
+Nf14,EA202,NA,Caddo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.12168688,Mean value of monthly temperature across the year
+Nf15,EA202,NA,Kickapoo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,9.224906028,Mean value of monthly temperature across the year
+Nf2,EA202,NA,Ho Chunk,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.946549112,Mean value of monthly temperature across the year
+Nf3,EA202,1400,Omaha,Population size,Population,NA,NA,AnnualMeanTemperature,12.04246538,Mean value of monthly temperature across the year
+Nf4,EA202,6000,Myaamia,Population size,Population,NA,NA,AnnualMeanTemperature,11.51992149,Mean value of monthly temperature across the year
+Nf5,EA202,500,Wichita,Population size,Population,NA,NA,AnnualMeanTemperature,17.27582285,Mean value of monthly temperature across the year
+Nf6,EA202,3400,Pawnee,Population size,Population,NA,NA,AnnualMeanTemperature,10.22841915,Mean value of monthly temperature across the year
+Nf7,EA202,2000,Fox,Population size,Population,NA,NA,AnnualMeanTemperature,7.939477299,Mean value of monthly temperature across the year
+Nf8,EA202,NA,Hasinai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.59906132,Mean value of monthly temperature across the year
+Nf9,EA202,1600,Menominee,Population size,Population,NA,NA,AnnualMeanTemperature,5.447126907,Mean value of monthly temperature across the year
+Ng1,EA202,NA,Huron,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,7.306836644,Mean value of monthly temperature across the year
+Ng10,EA202,10000,Seneca,Population size,Population,NA,NA,AnnualMeanTemperature,7.756067881,Mean value of monthly temperature across the year
+Ng11,EA202,1139,Yuchi,Population size,Population,NA,NA,AnnualMeanTemperature,14.42170726,Mean value of monthly temperature across the year
+Ng12,EA202,15000,Choctaw,Population size,Population,NA,NA,AnnualMeanTemperature,16.68382167,Mean value of monthly temperature across the year
+Ng13,EA202,NA,Abenaki,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,4.878709633,Mean value of monthly temperature across the year
+Ng14,EA202,8000,Chickasaw,Population size,Population,NA,NA,AnnualMeanTemperature,13.99198516,Mean value of monthly temperature across the year
+Ng15,EA202,4000,Chitimacha,Population size,Population,NA,NA,AnnualMeanTemperature,20.14789525,Mean value of monthly temperature across the year
+Ng2,EA202,175,Seminole,Population size,Population,NA,NA,AnnualMeanTemperature,21.97059972,Mean value of monthly temperature across the year
+Ng3,EA202,19000,Muscogee,Population size,Population,NA,NA,AnnualMeanTemperature,16.25536128,Mean value of monthly temperature across the year
+Ng4,EA202,300,Penobscot,Population size,Population,NA,NA,AnnualMeanTemperature,7.994961467,Mean value of monthly temperature across the year
+Ng5,EA202,20000,Cherokee,Population size,Population,NA,NA,AnnualMeanTemperature,12.59812975,Mean value of monthly temperature across the year
+Ng6,EA202,8000,Delaware,Population size,Population,NA,NA,AnnualMeanTemperature,10.125304,Mean value of monthly temperature across the year
+Ng7,EA202,NA,Natchez,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,17.76099067,Mean value of monthly temperature across the year
+Ng8,EA202,NA,Timucua,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.13796521,Mean value of monthly temperature across the year
+Ng9,EA202,124,Catawba,Population size,Population,NA,NA,AnnualMeanTemperature,15.33612596,Mean value of monthly temperature across the year
+Nh1,EA202,1000,Chiricahua,Population size,Population,NA,NA,AnnualMeanTemperature,15.32261797,Mean value of monthly temperature across the year
+Nh10,EA202,1036,Isleta,Population size,Population,NA,NA,AnnualMeanTemperature,8.638588868,Mean value of monthly temperature across the year
+Nh11,EA202,1400,San Ildefonso,Population size,Population,NA,NA,AnnualMeanTemperature,6.959871906,Mean value of monthly temperature across the year
+Nh12,EA202,242,Santa Ana,Population size,Population,NA,NA,AnnualMeanTemperature,8.638588868,Mean value of monthly temperature across the year
+Nh13,EA202,1250,Acoma,Population size,Population,NA,NA,AnnualMeanTemperature,9.133653813,Mean value of monthly temperature across the year
+Nh14,EA202,2600,Laguna,Population size,Population,NA,NA,AnnualMeanTemperature,8.638588868,Mean value of monthly temperature across the year
+Nh15,EA202,NA,Mescalero,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,14.07346677,Mean value of monthly temperature across the year
+Nh16,EA202,800,Jicarilla,Population size,Population,NA,NA,AnnualMeanTemperature,8.617310663,Mean value of monthly temperature across the year
+Nh17,EA202,4700,Western Apache,Population size,Population,NA,NA,AnnualMeanTemperature,12.63651481,Mean value of monthly temperature across the year
+Nh18,EA202,3500,Hopi,Population size,Population,NA,NA,AnnualMeanTemperature,10.88647764,Mean value of monthly temperature across the year
+Nh19,EA202,NA,Cocopa,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.36625285,Mean value of monthly temperature across the year
+Nh2,EA202,400,Hano,Population size,Population,NA,NA,AnnualMeanTemperature,10.88647764,Mean value of monthly temperature across the year
+Nh20,EA202,250,Kamia,Population size,Population,NA,NA,AnnualMeanTemperature,20.31804734,Mean value of monthly temperature across the year
+Nh21,EA202,4000,Mojave,Population size,Population,NA,NA,AnnualMeanTemperature,17.39841756,Mean value of monthly temperature across the year
+Nh22,EA202,NA,Quechan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.78639042,Mean value of monthly temperature across the year
+Nh23,EA202,NA,Kewyipaya,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,15.08067456,Mean value of monthly temperature across the year
+Nh24,EA202,NA,Lipan Apache,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.10995072,Mean value of monthly temperature across the year
+Nh25,EA202,327,Sia,Population size,Population,NA,NA,AnnualMeanTemperature,6.889567807,Mean value of monthly temperature across the year
+Nh26,EA202,350,Santa Clara,Population size,Population,NA,NA,AnnualMeanTemperature,6.959871906,Mean value of monthly temperature across the year
+Nh27,EA202,900,Kewa,Population size,Population,NA,NA,AnnualMeanTemperature,7.212712302,Mean value of monthly temperature across the year
+Nh3,EA202,50000,Navajo,Population size,Population,NA,NA,AnnualMeanTemperature,10.45486988,Mean value of monthly temperature across the year
+Nh4,EA202,1700,Zuni,Population size,Population,NA,NA,AnnualMeanTemperature,9.862301822,Mean value of monthly temperature across the year
+Nh5,EA202,700,Maricopa,Population size,Population,NA,NA,AnnualMeanTemperature,21.19793906,Mean value of monthly temperature across the year
+Nh6,EA202,700,Taos,Population size,Population,NA,NA,AnnualMeanTemperature,5.348763927,Mean value of monthly temperature across the year
+Nh7,EA202,600,Cochiti,Population size,Population,NA,NA,AnnualMeanTemperature,6.959871906,Mean value of monthly temperature across the year
+Nh8,EA202,650,Jemez,Population size,Population,NA,NA,AnnualMeanTemperature,6.889567807,Mean value of monthly temperature across the year
+Nh9,EA202,100,Picuris,Population size,Population,NA,NA,AnnualMeanTemperature,6.959871906,Mean value of monthly temperature across the year
+Ni1,EA202,40000,Tarahumara,Population size,Population,NA,NA,AnnualMeanTemperature,12.88837639,Mean value of monthly temperature across the year
+Ni2,EA202,5000,Tohono O'odham,Population size,Population,NA,NA,AnnualMeanTemperature,22.68989319,Mean value of monthly temperature across the year
+Ni3,EA202,NA,Huichol,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,14.76897583,Mean value of monthly temperature across the year
+Ni4,EA202,200,Seri,Population size,Population,NA,NA,AnnualMeanTemperature,24.82833869,Mean value of monthly temperature across the year
+Ni5,EA202,NA,Chichimeca,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,13.50551589,Mean value of monthly temperature across the year
+Ni6,EA202,20000,Pima,Population size,Population,NA,NA,AnnualMeanTemperature,20.18233124,Mean value of monthly temperature across the year
+Ni7,EA202,NA,Yaqui,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.68370865,Mean value of monthly temperature across the year
+Ni8,EA202,60000,Opata,Population size,Population,NA,NA,AnnualMeanTemperature,20.0629022,Mean value of monthly temperature across the year
+Ni9,EA202,NA,Tepehuán,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,13.101956,Mean value of monthly temperature across the year
+Nj1,EA202,40000,Chinantec,Population size,Population,NA,NA,AnnualMeanTemperature,18.33860316,Mean value of monthly temperature across the year
+Nj10,EA202,NA,Zapotec,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,20.81118287,Mean value of monthly temperature across the year
+Nj11,EA202,40000,Huastec,Population size,Population,NA,NA,AnnualMeanTemperature,16.4244031,Mean value of monthly temperature across the year
+Nj12,EA202,NA,Mixtec,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.83594138,Mean value of monthly temperature across the year
+Nj13,EA202,NA,Otomí,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,11.51454534,Mean value of monthly temperature across the year
+Nj14,EA202,5000,Tequistlatec,Population size,Population,NA,NA,AnnualMeanTemperature,24.4090775,Mean value of monthly temperature across the year
+Nj2,EA202,3e+05,Aztec,Population size,Population,NA,NA,AnnualMeanTemperature,14.06928618,Mean value of monthly temperature across the year
+Nj3,EA202,NA,Sierra Popoluca,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.17543055,Mean value of monthly temperature across the year
+Nj4,EA202,1e+05,Totonac,Population size,Population,NA,NA,AnnualMeanTemperature,16.63081682,Mean value of monthly temperature across the year
+Nj5,EA202,55000,Mazateco,Population size,Population,NA,NA,AnnualMeanTemperature,14.93753495,Mean value of monthly temperature across the year
+Nj6,EA202,3500,Huave,Population size,Population,NA,NA,AnnualMeanTemperature,23.17134787,Mean value of monthly temperature across the year
+Nj7,EA202,NA,Mixe,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.6695483,Mean value of monthly temperature across the year
+Nj8,EA202,NA,Tarasco,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,16.94166885,Mean value of monthly temperature across the year
+Nj9,EA202,3e+05,Tlaxcalans,Population size,Population,NA,NA,AnnualMeanTemperature,13.94816831,Mean value of monthly temperature across the year
+Sa1,EA202,NA,Guna,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.71958093,Mean value of monthly temperature across the year
+Sa10,EA202,2e+05,Lacandon,Population size,Population,NA,NA,AnnualMeanTemperature,21.43231547,Mean value of monthly temperature across the year
+Sa11,EA202,NA,Kaqchikel,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.28140393,Mean value of monthly temperature across the year
+Sa12,EA202,NA,Lenca,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.11981296,Mean value of monthly temperature across the year
+Sa13,EA202,NA,K'iche',Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.92888485,Mean value of monthly temperature across the year
+Sa14,EA202,18000,Ngäbe,Population size,Population,NA,NA,AnnualMeanTemperature,25.16788396,Mean value of monthly temperature across the year
+Sa15,EA202,NA,Jakaltek,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.89761622,Mean value of monthly temperature across the year
+Sa16,EA202,NA,Tolupan,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.24499804,Mean value of monthly temperature across the year
+Sa17,EA202,NA,Poqomam,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.92888485,Mean value of monthly temperature across the year
+Sa2,EA202,40000,Tzeltal,Population size,Population,NA,NA,AnnualMeanTemperature,21.43231547,Mean value of monthly temperature across the year
+Sa3,EA202,NA,Ch'orti',Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.8632508,Mean value of monthly temperature across the year
+Sa4,EA202,5000,Emberá,Population size,Population,NA,NA,AnnualMeanTemperature,25.31639642,Mean value of monthly temperature across the year
+Sa5,EA202,NA,Bribri,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.27433902,Mean value of monthly temperature across the year
+Sa6,EA202,NA,Yucatec Maya,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.90360885,Mean value of monthly temperature across the year
+Sa7,EA202,30000,Garifuna,Population size,Population,NA,NA,AnnualMeanTemperature,22.90113633,Mean value of monthly temperature across the year
+Sa8,EA202,1300,Mam,Population size,Population,NA,NA,AnnualMeanTemperature,25.16416438,Mean value of monthly temperature across the year
+Sa9,EA202,15000,Miskito,Population size,Population,NA,NA,AnnualMeanTemperature,25.64400906,Mean value of monthly temperature across the year
+Sb1,EA202,NA,Callinago,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.50682844,Mean value of monthly temperature across the year
+Sb2,EA202,2000,Cágaba,Population size,Population,NA,NA,AnnualMeanTemperature,26.33105178,Mean value of monthly temperature across the year
+Sb3,EA202,3000,Barí (Motilon),Population size,Population,NA,NA,AnnualMeanTemperature,23.40024009,Mean value of monthly temperature across the year
+Sb4,EA202,1300,Cariña,Population size,Population,NA,NA,AnnualMeanTemperature,27.23888943,Mean value of monthly temperature across the year
+Sb5,EA202,1350,Paraujano,Population size,Population,NA,NA,AnnualMeanTemperature,26.25112068,Mean value of monthly temperature across the year
+Sb6,EA202,NA,Wayuu,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.13008088,Mean value of monthly temperature across the year
+Sb7,EA202,156,Yupa,Population size,Population,NA,NA,AnnualMeanTemperature,23.40024009,Mean value of monthly temperature across the year
+Sb8,EA202,NA,Taíno,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.06458763,Mean value of monthly temperature across the year
+Sb9,EA202,NA,Haitians,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.13633072,Mean value of monthly temperature across the year
+Sc1,EA202,8000,Warao,Population size,Population,NA,NA,AnnualMeanTemperature,26.12679571,Mean value of monthly temperature across the year
+Sc10,EA202,NA,Lokono,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,26.21875866,Mean value of monthly temperature across the year
+Sc11,EA202,2500,Camaracoto,Population size,Population,NA,NA,AnnualMeanTemperature,20.59886776,Mean value of monthly temperature across the year
+Sc12,EA202,NA,Macushi,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.33176972,Mean value of monthly temperature across the year
+Sc13,EA202,750,Panare,Population size,Population,NA,NA,AnnualMeanTemperature,21.3917023,Mean value of monthly temperature across the year
+Sc14,EA202,NA,Rucuyen,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.8047631,Mean value of monthly temperature across the year
+Sc15,EA202,NA,Taulípang,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.39735934,Mean value of monthly temperature across the year
+Sc16,EA202,NA,Ye'kuana,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.96793333,Mean value of monthly temperature across the year
+Sc17,EA202,300,Piapoco,Population size,Population,NA,NA,AnnualMeanTemperature,24.81321405,Mean value of monthly temperature across the year
+Sc18,EA202,15000,Ndyuka,Population size,Population,NA,NA,AnnualMeanTemperature,25.48530893,Mean value of monthly temperature across the year
+Sc2,EA202,500,Pumé,Population size,Population,NA,NA,AnnualMeanTemperature,26.90384295,Mean value of monthly temperature across the year
+Sc3,EA202,600,Barama River Carib,Population size,Population,NA,NA,AnnualMeanTemperature,22.09367481,Mean value of monthly temperature across the year
+Sc4,EA202,5000,Guahibo,Population size,Population,NA,NA,AnnualMeanTemperature,24.42383966,Mean value of monthly temperature across the year
+Sc5,EA202,NA,Wapishana,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.76788667,Mean value of monthly temperature across the year
+Sc6,EA202,14000,Saramaccan,Population size,Population,NA,NA,AnnualMeanTemperature,25.16417264,Mean value of monthly temperature across the year
+Sc7,EA202,NA,Yabarana,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.70901989,Mean value of monthly temperature across the year
+Sc8,EA202,4000,Piaroa,Population size,Population,NA,NA,AnnualMeanTemperature,21.49745418,Mean value of monthly temperature across the year
+Sc9,EA202,NA,Curripaco,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.49745418,Mean value of monthly temperature across the year
+Sd1,EA202,1200,Munduruku,Population size,Population,NA,NA,AnnualMeanTemperature,24.75392663,Mean value of monthly temperature across the year
+Sd2,EA202,147,Tapirapé,Population size,Population,NA,NA,AnnualMeanTemperature,25.05868119,Mean value of monthly temperature across the year
+Sd3,EA202,240,Palikur,Population size,Population,NA,NA,AnnualMeanTemperature,24.01992748,Mean value of monthly temperature across the year
+Sd4,EA202,50000,Guaica,Population size,Population,NA,NA,AnnualMeanTemperature,23.23966571,Mean value of monthly temperature across the year
+Sd5,EA202,1400,Sateré Mawé,Population size,Population,NA,NA,AnnualMeanTemperature,24.83698322,Mean value of monthly temperature across the year
+Sd6,EA202,5000,Shiriana,Population size,Population,NA,NA,AnnualMeanTemperature,21.44272949,Mean value of monthly temperature across the year
+Sd7,EA202,180,Wai-wai,Population size,Population,NA,NA,AnnualMeanTemperature,23.81777701,Mean value of monthly temperature across the year
+Sd8,EA202,2500,Sanema,Population size,Population,NA,NA,AnnualMeanTemperature,21.50898918,Mean value of monthly temperature across the year
+Sd9,EA202,NA,Yanomami,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.23966571,Mean value of monthly temperature across the year
+Se1,EA202,2000,Sirionó,Population size,Population,NA,NA,AnnualMeanTemperature,24.67523268,Mean value of monthly temperature across the year
+Se10,EA202,NA,Cocama,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,22.70023207,Mean value of monthly temperature across the year
+Se11,EA202,100,Chácobo,Population size,Population,NA,NA,AnnualMeanTemperature,26.42773728,Mean value of monthly temperature across the year
+Se12,EA202,NA,Tucano,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.23790979,Mean value of monthly temperature across the year
+Se2,EA202,3000,Ticuna,Population size,Population,NA,NA,AnnualMeanTemperature,24.57226547,Mean value of monthly temperature across the year
+Se3,EA202,12600,Shuar,Population size,Population,NA,NA,AnnualMeanTemperature,20.98180557,Mean value of monthly temperature across the year
+Se4,EA202,1000,Yagua,Population size,Population,NA,NA,AnnualMeanTemperature,24.56758894,Mean value of monthly temperature across the year
+Se5,EA202,2500,Cubeo,Population size,Population,NA,NA,AnnualMeanTemperature,23.52865269,Mean value of monthly temperature across the year
+Se6,EA202,15000,Witoto,Population size,Population,NA,NA,AnnualMeanTemperature,24.19936935,Mean value of monthly temperature across the year
+Se7,EA202,NA,Camba,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,21.28437226,Mean value of monthly temperature across the year
+Se8,EA202,NA,Amahuaca,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.64855453,Mean value of monthly temperature across the year
+Se9,EA202,1200,Shipibo-Conibo,Population size,Population,NA,NA,AnnualMeanTemperature,23.21454754,Mean value of monthly temperature across the year
+Sf1,EA202,1500000,Inca,Population size,Population,NA,NA,AnnualMeanTemperature,7.081621441,Mean value of monthly temperature across the year
+Sf2,EA202,6e+05,Aymara,Population size,Population,NA,NA,AnnualMeanTemperature,4.154832433,Mean value of monthly temperature across the year
+Sf3,EA202,1500,Chachi,Population size,Population,NA,NA,AnnualMeanTemperature,22.70023207,Mean value of monthly temperature across the year
+Sf4,EA202,2000,U'wa,Population size,Population,NA,NA,AnnualMeanTemperature,17.50920291,Mean value of monthly temperature across the year
+Sf5,EA202,NA,Páez,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,19.01929926,Mean value of monthly temperature across the year
+Sf6,EA202,1e+06,Muisca,Population size,Population,NA,NA,AnnualMeanTemperature,20.78676186,Mean value of monthly temperature across the year
+Sf7,EA202,5000,Asháninka,Population size,Population,NA,NA,AnnualMeanTemperature,22.49863094,Mean value of monthly temperature across the year
+Sf8,EA202,450,Piro,Population size,Population,NA,NA,AnnualMeanTemperature,11.84102496,Mean value of monthly temperature across the year
+Sf9,EA202,99,Uru,Population size,Population,NA,NA,AnnualMeanTemperature,4.154832433,Mean value of monthly temperature across the year
+Sg1,EA202,2500,Yahgan,Population size,Population,NA,NA,AnnualMeanTemperature,4.040226215,Mean value of monthly temperature across the year
+Sg2,EA202,NA,Mapuche,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,10.33971376,Mean value of monthly temperature across the year
+Sg3,EA202,2000,Ona,Population size,Population,NA,NA,AnnualMeanTemperature,3.673220667,Mean value of monthly temperature across the year
+Sg4,EA202,1400,Tehuelche,Population size,Population,NA,NA,AnnualMeanTemperature,5.156872632,Mean value of monthly temperature across the year
+Sg5,EA202,200,Alacaluf,Population size,Population,NA,NA,AnnualMeanTemperature,5.833742621,Mean value of monthly temperature across the year
+Sh1,EA202,20000,Wichí,Population size,Population,NA,NA,AnnualMeanTemperature,20.6013233,Mean value of monthly temperature across the year
+Sh2,EA202,3000,Terena,Population size,Population,NA,NA,AnnualMeanTemperature,26.41677012,Mean value of monthly temperature across the year
+Sh3,EA202,5000,Abipón,Population size,Population,NA,NA,AnnualMeanTemperature,20.46935368,Mean value of monthly temperature across the year
+Sh4,EA202,150,Kadiwéu,Population size,Population,NA,NA,AnnualMeanTemperature,25.18428816,Mean value of monthly temperature across the year
+Sh5,EA202,2500,Choroti,Population size,Population,NA,NA,AnnualMeanTemperature,25.00054367,Mean value of monthly temperature across the year
+Sh6,EA202,NA,Chamacoco,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,27.07164879,Mean value of monthly temperature across the year
+Sh7,EA202,NA,Guaraní,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,18.90192409,Mean value of monthly temperature across the year
+Sh8,EA202,10000,Toba,Population size,Population,NA,NA,AnnualMeanTemperature,23.352928,Mean value of monthly temperature across the year
+Sh9,EA202,NA,Lengua,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.06788413,Mean value of monthly temperature across the year
+Si1,EA202,1000,Bororo,Population size,Population,NA,NA,AnnualMeanTemperature,25.32558359,Mean value of monthly temperature across the year
+Si10,EA202,145,Kuikuru,Population size,Population,NA,NA,AnnualMeanTemperature,24.4736998,Mean value of monthly temperature across the year
+Si2,EA202,NA,Trumai,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.89278821,Mean value of monthly temperature across the year
+Si3,EA202,250,Bacairi,Population size,Population,NA,NA,AnnualMeanTemperature,24.55447598,Mean value of monthly temperature across the year
+Si4,EA202,NA,Nambikwara,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.76828312,Mean value of monthly temperature across the year
+Si5,EA202,110,Kamayurá,Population size,Population,NA,NA,AnnualMeanTemperature,24.49750805,Mean value of monthly temperature across the year
+Si6,EA202,100,Guató,Population size,Population,NA,NA,AnnualMeanTemperature,27.09969947,Mean value of monthly temperature across the year
+Si7,EA202,340,Paresi,Population size,Population,NA,NA,AnnualMeanTemperature,26.00719066,Mean value of monthly temperature across the year
+Si8,EA202,100,Umotina,Population size,Population,NA,NA,AnnualMeanTemperature,26.22879281,Mean value of monthly temperature across the year
+Si9,EA202,NA,Aweti,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,24.49750805,Mean value of monthly temperature across the year
+Sj1,EA202,800,Carajá,Population size,Population,NA,NA,AnnualMeanTemperature,25.64519515,Mean value of monthly temperature across the year
+Sj10,EA202,2000,Cayua,Population size,Population,NA,NA,AnnualMeanTemperature,20.36620928,Mean value of monthly temperature across the year
+Sj11,EA202,NA,Shavante,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,25.06905708,Mean value of monthly temperature across the year
+Sj2,EA202,2139,Sherente,Population size,Population,NA,NA,AnnualMeanTemperature,26.01899225,Mean value of monthly temperature across the year
+Sj3,EA202,100,Aweikoma,Population size,Population,NA,NA,AnnualMeanTemperature,17.03586013,Mean value of monthly temperature across the year
+Sj4,EA202,300,Canela,Population size,Population,NA,NA,AnnualMeanTemperature,25.34380107,Mean value of monthly temperature across the year
+Sj5,EA202,5000,Aimoré,Population size,Population,NA,NA,AnnualMeanTemperature,20.9411307,Mean value of monthly temperature across the year
+Sj6,EA202,2000,Tenetehara,Population size,Population,NA,NA,AnnualMeanTemperature,24.52469856,Mean value of monthly temperature across the year
+Sj7,EA202,160,Apinaye,Population size,Population,NA,NA,AnnualMeanTemperature,24.65177344,Mean value of monthly temperature across the year
+Sj8,EA202,NA,Tupinambá,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.79291324,Mean value of monthly temperature across the year
+Sj9,EA202,NA,Kayapo,Population size,Population,Missing data,Missing data,AnnualMeanTemperature,23.71749573,Mean value of monthly temperature across the year
+ch12,EA202,1320000,Bashkir,Population size,Population,NA,NA,AnnualMeanTemperature,4.59519289,Mean value of monthly temperature across the year
+ch13,EA202,10034,Besermyan,Population size,Population,NA,NA,AnnualMeanTemperature,3.29110376,Mean value of monthly temperature across the year
+ch14,EA202,845000,Chuvash,Population size,Population,NA,NA,AnnualMeanTemperature,4.02812937,Mean value of monthly temperature across the year
+ch15,EA202,1025000,Erzya Mordvins,Population size,Population,NA,NA,AnnualMeanTemperature,7.249733765,Mean value of monthly temperature across the year
+ch16,EA202,350000,Estonians,Population size,Population,NA,NA,AnnualMeanTemperature,6.382864993,Mean value of monthly temperature across the year
+ch17,EA202,36127,Gagauz,Population size,Population,NA,NA,AnnualMeanTemperature,13.93636069,Mean value of monthly temperature across the year
+ch18,EA202,26137,Ingrians,Population size,Population,NA,NA,AnnualMeanTemperature,5.67997949,Mean value of monthly temperature across the year
+ch19,EA202,208100,Karelians,Population size,Population,NA,NA,AnnualMeanTemperature,0.824553757,Mean value of monthly temperature across the year
+ch20,EA202,675419,Kazan tatar,Population size,Population,NA,NA,AnnualMeanTemperature,5.531081404,Mean value of monthly temperature across the year
+ch21,EA202,1312000,Latvians,Population size,Population,NA,NA,AnnualMeanTemperature,8.058242078,Mean value of monthly temperature across the year
+ch22,EA202,800,Lithuanian Karaim,Population size,Population,NA,NA,AnnualMeanTemperature,8.631078594,Mean value of monthly temperature across the year
+ch23,EA202,4499,Lithuanian Tatar,Population size,Population,NA,NA,AnnualMeanTemperature,8.337742868,Mean value of monthly temperature across the year
+ch24,EA202,3000,Livs,Population size,Population,NA,NA,AnnualMeanTemperature,8.356578215,Mean value of monthly temperature across the year
+ch25,EA202,921000,Moldovans,Population size,Population,NA,NA,AnnualMeanTemperature,12.39622862,Mean value of monthly temperature across the year
+ch26,EA202,504000,Udmurt,Population size,Population,NA,NA,AnnualMeanTemperature,4.02812937,Mean value of monthly temperature across the year
+ch27,EA202,32773,Veps,Population size,Population,NA,NA,AnnualMeanTemperature,3.065800149,Mean value of monthly temperature across the year
+ch28,EA202,1000,Votes,Population size,Population,NA,NA,AnnualMeanTemperature,5.67997949,Mean value of monthly temperature across the year
+ec12,EA202,500,Nganasan,Population size,Population,NA,NA,AnnualMeanTemperature,-14.78078659,Mean value of monthly temperature across the year
+ec13,EA202,12000,Itelmen,Population size,Population,NA,NA,AnnualMeanTemperature,-3.525739811,Mean value of monthly temperature across the year
+ec14,EA202,1000,Ungazikmit,Population size,Population,NA,NA,AnnualMeanTemperature,-12.02872618,Mean value of monthly temperature across the year
+ec15,EA202,1300,Mansi,Population size,Population,NA,NA,AnnualMeanTemperature,-1.820360927,Mean value of monthly temperature across the year
+ec16,EA202,1000,Evenk,Population size,Population,NA,NA,AnnualMeanTemperature,-7.410417549,Mean value of monthly temperature across the year
+ec17,EA202,420,Negidal,Population size,Population,NA,NA,AnnualMeanTemperature,-5.450823497,Mean value of monthly temperature across the year
+ec18,EA202,3000,Ulch,Population size,Population,NA,NA,AnnualMeanTemperature,-2.851321261,Mean value of monthly temperature across the year
+ec19,EA202,500,Orok,Population size,Population,NA,NA,AnnualMeanTemperature,-5.380600751,Mean value of monthly temperature across the year
+ec20,EA202,800,Oroch,Population size,Population,NA,NA,AnnualMeanTemperature,-2.562208715,Mean value of monthly temperature across the year
+ec21,EA202,1300,Udihe,Population size,Population,NA,NA,AnnualMeanTemperature,0.277397471,Mean value of monthly temperature across the year
